@@ -3,12 +3,12 @@ import json
 import urllib.request
 import requests
 from bs4 import BeautifulSoup
-import re
+يimport re
 
 TOKEN = os.environ.get('TELEGRAM_TOKEN')
 CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
 PRODUCT_URL = "https://l.kaspi.kz/shop/HPqXuKbk822BST8"
-MY_SHOP_KEYWORD = "dikhanbay"  # Ваш ключевой латинский идентификатор
+MY_SHOP_KEYWORD = "dikhanbay"  # Уникальная часть вашего названия для проверки
 MY_SHOP_DISPLAY_NAME = "ИП DIKHANBAY"
 
 def send_telegram_message(text):
@@ -31,33 +31,30 @@ def check_kaspi_price():
         response = requests.get(PRODUCT_URL, headers=headers, timeout=15)
         page_text = response.text
         
-        # Ищем цены в тексте страницы
+        # Извлекаем минимальную цену на рынке
         prices = re.findall(r'"price"\s*:\s*(\d+)', page_text)
         valid_prices = [int(p) for p in prices if 100 < int(p) < 10000000]
         best_price = min(valid_prices) if valid_prices else None
         
-        # Проверяем наличие вашего магазина во всем тексте (включая скрипты и JSON)
+        # Проверяем, присутствует ли ваш магазин на странице
         my_shop_on_page = MY_SHOP_KEYWORD in page_text.lower()
         
-        # Дополнительный поиск в скриптах (иногда данные продавцов лежат в JSON-массивах)
-        if not my_shop_on_page:
-            for script in BeautifulSoup(page_text, 'html.parser').find_all('script'):
-                if script.string and MY_SHOP_KEYWORD in script.string.lower():
-                    my_shop_on_page = True
-                    break
-
         if best_price:
-            status_icon = "Да ✅ (Вы на странице)" if my_shop_on_page else "Нет ❌ (Вас не видно в выдаче)"
-            message = (
-                f"🛡 Мониторинг позиции Kaspi:\n"
-                f"📦 Товар: Крышка Stellox\n"
-                f"💰 Лучшая цена на странице: {best_price} ₸\n"
-                f"🏪 Статус магазина ({MY_SHOP_DISPLAY_NAME}): {status_icon}\n"
-                f"🔗 {PRODUCT_URL}"
-            )
-            send_telegram_message(message)
+            if not my_shop_on_page:
+                # Если вашего магазина не видно в выдаче — шлем тревожное уведомление
+                message = (
+                    f"🚨 **Внимание, конкурент подвинул позиции!**\n"
+                    f"📦 Товар: Крышка Stellox\n"
+                    f"💰 Лучшая цена на рынке: {best_price} ₸\n"
+                    f"⚠️ Ваш магазин ({MY_SHOP_DISPLAY_NAME}) потерял позицию или не найден!\n"
+                    f"🔗 {PRODUCT_URL}"
+                )
+                send_telegram_message(message)
+            else:
+                # Если ваш магазин на месте — бот сохраняет тишину и пишет отчет только в лог GitHub Actions
+                print(f"Всё отлично! Магазин {MY_SHOP_DISPLAY_NAME} на месте. Лучшая цена: {best_price} ₸. Уведомление в Telegram не требуется.")
         else:
-            send_telegram_message(f"⚠️ Страница доступна, но цены не извлечены. Статус: {response.status_code}")
+            print("Страница доступна, но цены не извлечены.")
             
     except Exception as e:
         send_telegram_message(f"⚠️ Ошибка при запросе к Kaspi: {e}")
