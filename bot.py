@@ -10,8 +10,8 @@ CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
 PRODUCTS = [
     {
         "name": "Крышка расширительного бачка Stellox",
-        "url": "https://l.kaspi.kz/shop/HPqXuKbk822BST8",
-        "my_price": 4010
+        "url": "https://kaspi.kz/shop/p/stellox-kryshka-rasshiritel-nogo-bachka-7550961sx-129853133/?c=750000000",
+        "my_price": 2997
     },
     {
         "name": "K2 крышка расширительного бачка 1647123010",
