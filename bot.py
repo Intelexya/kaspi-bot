@@ -23,17 +23,61 @@ PRODUCTS = [
          "my_price": 1800
      }
 
-    {
+     {
          "name": "Japanparts крышка маслозаливной горловины KO016",
          "url": "https://kaspi.kz/shop/p/japanparts-kryshka-maslozalivnoi-gorloviny-ko016-165973425/?c=750000000",
          "my_price": 3315
      }
     
-{
+     {
          "name": "SRR крышка топливного бака 77300-33070",
          "url": "https://kaspi.kz/shop/p/srr-kryshka-toplivnogo-baka-77300-33070-116309998/?c=750000000",
          "my_price": 3492
      }
+
+
+     {
+         "name": "Longho крышка омывателя 9650135",
+         "url": "https://kaspi.kz/shop/p/longho-kryshka-omyvatelja-9650135-167733700/?c=750000000",
+         "my_price": 1498
+     }
+
+     {
+         "name": "Крышка топливного бака 7730006040",
+         "url": "https://kaspi.kz/shop/p/kryshka-toplivnogo-baka-7730006040-154439341/?c=750000000",
+         "my_price": 5700
+     }
+
+     {
+         "name": "Stellox крышка расширительного бачка 7550961SX",
+         "url": "https://kaspi.kz/shop/p/stellox-kryshka-rasshiritel-nogo-bachka-7550961sx-129853133/?c=750000000",
+         "my_price": 2997
+     }
+
+     {
+         "name": "WXQP крючок солнцезащитного козырька 199157559",
+         "url": "https://kaspi.kz/shop/p/wxqp-krjuchok-solntsezaschitnogo-kozyr-ka-199157559-164727533/?c=750000000",
+         "my_price": 1300
+     }
+
+     {
+         "name": "JP GROUP крышка омывателя 1198600300 Audi A1",
+         "url": "https://kaspi.kz/shop/p/jp-group-kryshka-omyvatelja-1198600300-audi-a1-129686813/?c=750000000",
+         "my_price": 1790
+     }
+
+     {
+         "name": "DEKO крышка омывателя D85316-26030",
+         "url": "https://kaspi.kz/shop/p/deko-kryshka-omyvatelja-d85316-26030-168231986/?c=750000000",
+         "my_price": 2010
+     }
+
+     {
+         "name": "K2 крючок солнцезащитного козырька 3B0857561B",
+         "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-3b0857561b-166974655/?c=750000000",
+         "my_price": 2000
+     }
+
 ]
 
 def send_telegram_message(text):
