@@ -8,8 +8,10 @@ import re
 TOKEN = os.environ.get('TELEGRAM_TOKEN')
 CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
 PRODUCT_URL = "https://l.kaspi.kz/shop/HPqXuKbk822BST8"
-MY_SHOP_KEYWORD = "dikhanbay"  # Уникальная часть вашего названия для проверки
-MY_SHOP_DISPLAY_NAME = "ИП DIKHANBAY"
+
+# Укажите вашу текущую цену на этот товар. 
+# Если кто-то на рынке поставит цену ниже этой — бот пришлет предупреждение.
+MY_PRICE = 4010 
 
 def send_telegram_message(text):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
@@ -31,28 +33,25 @@ def check_kaspi_price():
         response = requests.get(PRODUCT_URL, headers=headers, timeout=15)
         page_text = response.text
         
-        # Извлекаем минимальную цену на рынке
+        # Ищем все цены на странице
         prices = re.findall(r'"price"\s*:\s*(\d+)', page_text)
         valid_prices = [int(p) for p in prices if 100 < int(p) < 10000000]
         best_price = min(valid_prices) if valid_prices else None
         
-        # Проверяем, присутствует ли ваш магазин на странице
-        my_shop_on_page = MY_SHOP_KEYWORD in page_text.lower()
-        
         if best_price:
-            if not my_shop_on_page:
-                # Если вашего магазина не видно в выдаче — шлем тревожное уведомление
+            print(f"Найдена минимальная цена на рынке: {best_price} ₸")
+            # Если минимальная цена конкурентов ниже вашей цены
+            if best_price < MY_PRICE:
                 message = (
-                    f"🚨 **Внимание, конкурент подвинул позиции!**\n"
+                    f"🚨 **Внимание! Появилась цена ниже вашей!**\n"
                     f"📦 Товар: Крышка Stellox\n"
                     f"💰 Лучшая цена на рынке: {best_price} ₸\n"
-                    f"⚠️ Ваш магазин ({MY_SHOP_DISPLAY_NAME}) потерял позицию или не найден!\n"
+                    f"🏷 Ваша установленная цена: {MY_PRICE} ₸\n"
                     f"🔗 {PRODUCT_URL}"
                 )
                 send_telegram_message(message)
             else:
-                # Если ваш магазин на месте — бот сохраняет тишину и пишет отчет только в лог GitHub Actions
-                print(f"Всё отлично! Магазин {MY_SHOP_DISPLAY_NAME} на месте. Лучшая цена: {best_price} ₸. Уведомление в Telegram не требуется.")
+                print(f"Всё отлично! Лучшая цена ({best_price} ₸) не ниже вашей ({MY_PRICE} ₸). Уведомление не требуется.")
         else:
             print("Страница доступна, но цены не извлечены.")
             
