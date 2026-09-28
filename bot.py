@@ -22,6 +22,18 @@ PRODUCTS = [
          "url": "https://kaspi.kz/shop/p/k2-kryshka-rasshiritel-nogo-bachka-1647123010-154155028/?c=750000000",
          "my_price": 1800
      }
+
+    {
+         "name": "Japanparts крышка маслозаливной горловины KO016",
+         "url": "https://kaspi.kz/shop/p/japanparts-kryshka-maslozalivnoi-gorloviny-ko016-165973425/?c=750000000",
+         "my_price": 3315
+     }
+    
+{
+         "name": "SRR крышка топливного бака 77300-33070",
+         "url": "https://kaspi.kz/shop/p/srr-kryshka-toplivnogo-baka-77300-33070-116309998/?c=750000000",
+         "my_price": 3492
+     }
 ]
 
 def send_telegram_message(text):
