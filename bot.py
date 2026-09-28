@@ -3,7 +3,7 @@ import json
 import urllib.request
 import requests
 from bs4 import BeautifulSoup
-يimport re
+import re
 
 TOKEN = os.environ.get('TELEGRAM_TOKEN')
 CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
