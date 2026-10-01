@@ -242,9 +242,9 @@ def generate_report():
             
             if best_price:
                 if best_price < item['my_price']:
-                    status = f"❌ *Вы не первые!*\n   Низкая цена: {best_price} ₸ | Ваша: {item['my_price']} ₸"
+                    status = f"❌ *Вы не первый!*\n   Низкая цена: {best_price} ₸ | Ваша: {item['my_price']} ₸"
                 else:
-                    status = f"✅ *Вы первые!*\n   Низкая цена: {best_price} ₸ | Ваша: {item['my_price']} ₸"
+                    status = f"✅ *Вы первый!*\n   Низкая цена: {best_price} ₸ | Ваша: {item['my_price']} ₸"
             else:
                 status = "⚠️ Не удалось определить цену"
             
