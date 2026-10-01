@@ -211,54 +211,54 @@ PRODUCTS = [
         "my_price": 1498
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "AE крышка расширительного бачка 16405-31070",
+        "url": "https://kaspi.kz/shop/p/ae-kryshka-rasshiritel-nogo-bachka-16405-31070-153776975/?c=750000000",
+        "my_price": 3300
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "K2 крючок солнцезащитного козырька 88217S01A01ZA",
+        "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-88217s01a01za-153968848/?c=750000000",
+        "my_price": 2000
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "A.B.S. кнопка 81260-1W220 Hyundai Accent",
+        "url": "https://kaspi.kz/shop/p/a-b-s-knopka-81260-1w220-hyundai-accent-153829245/?c=750000000",
+        "my_price": 4990
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "Блок кнопок 84820-06100",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-84820-06100-114197160/?c=750000000",
+        "my_price": 10900
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "TAIWAN крышка омывателя 763333",
+        "url": "https://kaspi.kz/shop/p/taiwan-kryshka-omyvatelja-763333-119710822/?c=750000000",
+        "my_price": 1020
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "SAILING ручка MBL23003232",
+        "url": "https://kaspi.kz/shop/p/sailing-ruchka-mbl23003232-109331640/?c=750000000",
+        "my_price": 3400
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "OSSCA крышка маслозаливной горловины 26510-26600",
+        "url": "https://kaspi.kz/shop/p/ossca-kryshka-maslozalivnoi-gorloviny-26510-26600-124218993/?c=750000000",
+        "my_price": 1890
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "K2 крышка омывателя 85316-06021",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-85316-06021-142247760/?c=750000000",
+        "my_price": 1874
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "Блок кнопок 935701R410",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-935701r410-132802452/?c=750000000",
+        "my_price": 11000
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "Zebra крючок солнцезащитного козырька 7434833040B",
+        "url": "https://kaspi.kz/shop/p/zebra-krjuchok-solntsezaschitnogo-kozyr-ka-7434833040b-164080156/?c=750000000",
+        "my_price": 2000
     },
     {
         "name": " ",
