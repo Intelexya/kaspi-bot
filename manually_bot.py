@@ -128,7 +128,7 @@ PRODUCTS = [
     {
         "name": "Ручка КПП для Volkswagen Passat 1989-1997 черный",
         "url": "https://kaspi.kz/shop/p/ruchka-kpp-dlja-volkswagen-passat-1989-1997-chernyi-138763286/?c=750000000",
-        "my_price": 3 997
+        "my_price": 3997
     },
     {
         "name": "Крышка клапана кондиционера А/С -HL 2 шт",
@@ -148,7 +148,7 @@ PRODUCTS = [
     {
         "name": "Ручка ME81180340009RY Hyundai Accent",
         "url": "https://kaspi.kz/shop/p/ruchka-me81180340009ry-hyundai-accent-124302867/?c=750000000",
-        "my_price": 3 799
+        "my_price": 3799
     },
     {
         "name": "SAT крышка маслозаливной горловины ST-308-0001",
