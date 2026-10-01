@@ -116,7 +116,7 @@ def check_kaspi_prices():
                     message = (
                         f"🚨 *Внимание! Появилась цена ниже вашей!*\n\n"
                         f"📦 *Товар:* {item['name']}\n"
-                        f"💰 *Лучшая цена:* {best_price} ₸\n"
+                        f"💰 *Низкая цена:* {best_price} ₸\n"
                         f"🏷 *Ваша цена:* {item['my_price']} ₸\n\n"
                         f"🔗 [Ссылка на товар]({item['url']})"
                     )
