@@ -136,34 +136,34 @@ PRODUCTS = [
         "my_price": 498
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "ABS отбойник 817381J000 Hyundai Accent",
+        "url": "https://kaspi.kz/shop/p/abs-otboinik-817381j000-hyundai-accent-164387759/?c=750000000",
+        "my_price": 750
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "TORSO 10150866 упор капота для универсальный черный",
+        "url": "https://kaspi.kz/shop/p/torso-10150866-upor-kapota-dlja-universal-nyi-chernyi-130245275/?c=750000000",
+        "my_price": 1739
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "Ручка ME81180340009RY Hyundai Accent",
+        "url": "https://kaspi.kz/shop/p/ruchka-me81180340009ry-hyundai-accent-124302867/?c=750000000",
+        "my_price": 3 799
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "SAT крышка маслозаливной горловины ST-308-0001",
+        "url": "https://kaspi.kz/shop/p/sat-kryshka-maslozalivnoi-gorloviny-st-308-0001-122351055/?c=7500000030",
+        "my_price": 1859
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "OEM крючок солнцезащитного козырька 74348-06030",
+        "url": "https://kaspi.kz/shop/p/oem-krjuchok-solntsezaschitnogo-kozyr-ka-74348-06030-110700910/?c=750000000",
+        "my_price": 1460
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "ABS втулка 9048016049",
+        "url": "https://kaspi.kz/shop/p/abs-vtulka-9048016049-164636838/?c=750000000",
+        "my_price": 1299
     },
     {
         "name": "   ",
