@@ -22,7 +22,7 @@ PRODUCTS = [
     },
     {
         "name": "Japanparts крышка маслозаливной горловины K0016",
-        "url": "ССЫЛКА_НА_JAPANPARTS",  # Замените на реальную ссылку с Kaspi
+        "url": "https://kaspi.kz/shop/p/japanparts-kryshka-maslozalivnoi-gorloviny-ko016-165973425/?c=750000000",
         "my_price": 3315
     },
     {
