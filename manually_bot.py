@@ -261,29 +261,29 @@ PRODUCTS = [
         "my_price": 2000
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "WXQP крючок солнцезащитного козырька 199157559",
+        "url": "https://kaspi.kz/shop/p/wxqp-krjuchok-solntsezaschitnogo-kozyr-ka-199157559-164727533/?c=750000000",
+        "my_price": 1300
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "Febi крючок солнцезащитного козырька 443857561H",
+        "url": "https://kaspi.kz/shop/p/febi-krjuchok-solntsezaschitnogo-kozyr-ka-443857561h-172691390/?c=750000000",
+        "my_price": 1600
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "Alfi Parts крышка маслозаливной горловины OC1006",
+        "url": "https://kaspi.kz/shop/p/alfi-parts-kryshka-maslozalivnoi-gorloviny-oc1006-146281265/?c=750000000",
+        "my_price": 3592
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "JP GROUP крышка омывателя 1198600300 Audi A1",
+        "url": "https://kaspi.kz/shop/p/jp-group-kryshka-omyvatelja-1198600300-audi-a1-129686813/?c=750000000",
+        "my_price": 1790
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "PATRON форсунка омывателя P210001 Seat Rapid",
+        "url": "https://kaspi.kz/shop/p/patron-forsunka-omyvatelja-p210001-seat-rapid-114888897/?c=750000000",
+        "my_price": 1190
     },
     {
         "name": " ",
