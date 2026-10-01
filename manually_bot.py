@@ -16,7 +16,7 @@ PRODUCTS = [
         "my_price": 4010
     },
     {
-        "name": "К2 крышка расширительного бачка 1647123010",
+        "name": "K2 крышка расширительного бачка 1647123010",
         "url": "https://kaspi.kz/shop/p/k2-kryshka-rasshiritelnogo-bachka-1647123010-154155028/?c=750000000",
         "my_price": 1800
     },
@@ -207,7 +207,7 @@ PRODUCTS = [
     },
     {
         "name": "Чехол на рычаг КПП в виде толстовки, для МКПП и АКПП, зимний, антискользящий, цвета синий",
-        "url": "https://kaspi.kz/shop/p/chehol-na-rychag-kpp-v-vide-tolstovki-dlja-mkpp-i-akpp-zimnii-antiskol-zjaschii-tsveta-sinii-i-krasnyi-otpravljajutsja-sluchaino-155610618/?c=750000000",
+        "url": "https://kaspi.kz/shop/p/chehol-na-rychag-kpp-v-vide-tolstovki-dlja-mkpp-i-akpp-zimnii-antiskol-zjaschii-tsveta-sinii-i-krasnyi-otpravljajutsja-sluchajno-155610618/?c=750000000",
         "my_price": 1498
     },
     {
@@ -324,13 +324,14 @@ PRODUCTS = [
 
 def send_telegram_message(text):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-    data = json.dumps({"chat_id": CHAT_ID, "text": text, "parse_mode": "Markdown"}).encode('utf-8')
+    # Убираем parse_mode="Markdown", чтобы спецсимволы в названиях не ломали отправку
+    data = json.dumps({"chat_id": CHAT_ID, "text": text}).encode('utf-8')
     req = urllib.request.Request(url, data=data, headers={'Content-Type': 'application/json'})
     try:
         with urllib.request.urlopen(req) as response:
-            print("Отчет успешно отправлен в Telegram!")
+            print("Сообщение успешно отправлено в Telegram!")
     except Exception as e:
-        print(f"Ошибка отправки: {e}")
+        print(f"Ошибка отправки в Telegram: {e}")
 
 def generate_report():
     headers = {
@@ -338,32 +339,42 @@ def generate_report():
         "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
     }
 
-    report_lines = ["📊 *Сводка по ценам на товары:*\n"]
+    print(f"Всего товаров для проверки: {len(PRODUCTS)}")
+    report_items = []
 
     for index, item in enumerate(PRODUCTS, 1):
-        print(f"Проверяем: {item['name']}...")
+        print(f"Проверяем [{index}/{len(PRODUCTS)}]: {item['name']}...")
         try:
             response = requests.get(item['url'], headers=headers, timeout=15)
             page_text = response.text
-            
+
             prices = re.findall(r'"price"\s*:\s*(\d+)', page_text)
             valid_prices = [int(p) for p in prices if 100 < int(p) < 10000000]
             best_price = min(valid_prices) if valid_prices else None
-            
+
             if best_price:
                 if best_price < item['my_price']:
-                    status = f"❌ *Вы не первый!*\n   Низкая цена: {best_price} ₸ | Ваша: {item['my_price']} ₸"
+                    status = f"❌ Вы не первый!\n   Низкая цена: {best_price} ₸ | Ваша: {item['my_price']} ₸"
                 else:
-                    status = f"✅ *Вы первый!*\n   Низкая цена: {best_price} ₸ | Ваша: {item['my_price']} ₸"
+                    status = f"✅ Вы первый!\n   Низкая цена: {best_price} ₸ | Ваша: {item['my_price']} ₸"
             else:
                 status = "⚠️ Не удалось определить цену"
-            
-            report_lines.append(f"{index}️⃣ *{item['name']}*\n{status}\n")
-        except Exception as e:
-            report_lines.append(f"{index}️⃣ *{item['name']}*\n⚠️ Ошибка проверки\n")
 
-    full_report = "\n".join(report_lines)
-    send_telegram_message(full_report)
+            report_items.append(f"{index}. {item['name']}\n{status}\n")
+        except Exception as e:
+            report_items.append(f"{index}. {item['name']}\n⚠️ Ошибка проверки\n")
+
+    # Разбиваем на части по 15 товаров, чтобы не превысить лимит Telegram (4096 символов)
+    chunk_size = 15
+    chunks = [report_items[i:i + chunk_size] for i in range(0, len(report_items), chunk_size)]
+
+    # Отправляем заголовок
+    send_telegram_message("📊 Сводка по ценам на автозапчасти:")
+
+    # Отправляем каждую часть отдельным сообщением
+    for i, chunk in enumerate(chunks, 1):
+        chunk_text = f"--- Часть {i} из {len(chunks)} ---\n\n" + "\n".join(chunk)
+        send_telegram_message(chunk_text)
 
 if __name__ == "__main__":
     generate_report()
