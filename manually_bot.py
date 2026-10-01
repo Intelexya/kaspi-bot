@@ -91,124 +91,124 @@ PRODUCTS = [
         "my_price": 3628
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price":
+        "name": "Блок кнопок 84820-33230",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-84820-33230-139487957/?c=750000000",
+        "my_price": 12998
+    },
+    {
+        "name": "Заглушка 90950 01960 Daihatsu CT 200h",
+        "url": "https://kaspi.kz/shop/p/zaglushka-90950-01960-daihatsu-ct-200h-165931358/?c=750000000",
+        "my_price": 1500
+    },
+    {
+        "name": "JP GROUP крышка омывателя 1198600300 Audi A1",
+        "url": "https://kaspi.kz/shop/p/jp-group-kryshka-omyvatelja-1198600300-audi-a1-129686813/?c=750000000",
+        "my_price": 1790
+    },
+    {
+        "name": "JPS крышка маслозаливной горловины 12180-28010",
+        "url": "https://kaspi.kz/shop/p/jps-kryshka-maslozalivnoi-gorloviny-12180-28010-114151447/?c=750000000",
+        "my_price": 1500
+    },
+    {
+        "name": "K2 фиксатор 5890860060",
+        "url": "https://kaspi.kz/shop/p/k2-fiksator-5890860060-144087307/?c=750000000",
+        "my_price": 3300
+    },
+    {
+        "name": "K2 крючок солнцезащитного козырька 3B0857561B",
+        "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-3b0857561b-166930409/?c=750000000",
+        "my_price": 2000
+    },
+    {
+        "name": "Заглушка 85292-0F010 Lexus Corolla",
+        "url": "https://kaspi.kz/shop/p/zaglushka-85292-0f010-lexus-corolla-133966868/?c=750000000",
+        "my_price": 1180
+    },
+    {
+        "name": "Ручка КПП для Volkswagen Passat 1989-1997 черный",
+        "url": "https://kaspi.kz/shop/p/ruchka-kpp-dlja-volkswagen-passat-1989-1997-chernyi-138763286/?c=750000000",
+        "my_price": 3 997
+    },
+    {
+        "name": "Крышка клапана кондиционера А/С -HL 2 шт",
+        "url": "https://kaspi.kz/shop/p/kryshka-klapana-konditsionera-a-s--hl-2-sht-120023581/?c=750000000",
+        "my_price": 498
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
+        "my_price": 
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
+        "my_price": 
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
+        "my_price": 
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
+        "my_price": 
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
+        "my_price": 
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
+        "my_price": 
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
+        "my_price": 
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
+        "my_price": 
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
+        "my_price": 
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
+        "my_price": 
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
+        "my_price": 
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
+        "my_price": 
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
+        "my_price": 
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
+        "my_price": 
     },
     {
         "name": "   ",
         "url": "   ",
-        "my_price":
-    },
-    {
-        "name": "   ",
-        "url": "   ",
-        "my_price":
-    },
-    {
-        "name": "   ",
-        "url": "   ",
-        "my_price":
-    },
-    {
-        "name": "   ",
-        "url": "   ",
-        "my_price":
-    },
-    {
-        "name": "   ",
-        "url": "   ",
-        "my_price":
-    },
-    {
-        "name": "   ",
-        "url": "   ",
-        "my_price":
-    },
-    {
-        "name": "   ",
-        "url": "   ",
-        "my_price":
-    },
-    {
-        "name": "   ",
-        "url": "   ",
-        "my_price":
-    },
-    {
-        "name": "   ",
-        "url": "   ",
-        "my_price":
+        "my_price": 
     }
 ]
 
