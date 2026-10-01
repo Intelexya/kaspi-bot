@@ -111,7 +111,7 @@ def check_kaspi_prices():
             best_price = min(valid_prices) if valid_prices else None
             
             if best_price:
-                print(f"Лучшая цена на рынке: {best_price} ₸ (Ваша: {item['my_price']} ₸)")
+                print(f"Низкая цена: {best_price} ₸ (Ваша: {item['my_price']} ₸)")
                 if best_price < item['my_price']:
                     message = (
                         f"🚨 *Внимание! Появилась цена ниже вашей!*\n\n"
