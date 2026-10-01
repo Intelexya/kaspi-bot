@@ -209,6 +209,91 @@ PRODUCTS = [
         "name": "Чехол на рычаг КПП в виде толстовки, для МКПП и АКПП, зимний, антискользящий, цвета синий",
         "url": "https://kaspi.kz/shop/p/chehol-na-rychag-kpp-v-vide-tolstovki-dlja-mkpp-i-akpp-zimnii-antiskol-zjaschii-tsveta-sinii-i-krasnyi-otpravljajutsja-sluchaino-155610618/?c=750000000",
         "my_price": 1498
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
     }
 ]
 
