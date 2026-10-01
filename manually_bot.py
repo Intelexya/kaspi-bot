@@ -286,15 +286,40 @@ PRODUCTS = [
         "my_price": 1190
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "K2 буфер 1K8837529 Volkswagen Golf",
+        "url": "https://kaspi.kz/shop/p/k2-bufer-1k8837529-volkswagen-golf-160876679/?c=750000000",
+        "my_price": 450
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
-    }
+        "name": "VM клипсы 9468278",
+        "url": "https://kaspi.kz/shop/p/vm-klipsy-9468278-166974673/?c=750000000",
+        "my_price": 450
+    },
+    {
+        "name": "K2 отбойник 9054115004 Lexus ES 300",
+        "url": "https://kaspi.kz/shop/p/k2-otboinik-9054115004-lexus-es-300-169087974/?c=750000000",
+        "my_price": 600
+    },
+    {
+        "name": "SAT крючок солнцезащитного козырька 890317783",
+        "url": "https://kaspi.kz/shop/p/sat-krjuchok-solntsezaschitnogo-kozyr-ka-890317783-122277366/?c=750000000",
+        "my_price": 999
+    },
+    {
+        "name": "Крышка омывателя 13227300",
+        "url": "https://kaspi.kz/shop/p/kryshka-omyvatelja-13227300-109131952/?c=750000000",
+        "my_price": 1000
+    },
+    {
+        "name": "SAT заглушка 1A70419 Lexus Auris",
+        "url": "https://kaspi.kz/shop/p/sat-zaglushka-1a70419-lexus-auris-162543228/?c=750000000",
+        "my_price": 1000
+    },
+    {
+        "name": "SAT форсунка омывателя St-6e0955985 Volkswagen Golf",
+        "url": "https://kaspi.kz/shop/p/sat-forsunka-omyvatelja-st-6e0955985-volkswagen-golf-150975788/?c=750000000",
+        "my_price": 1140
+    },
 ]
 
 def send_telegram_message(text):
