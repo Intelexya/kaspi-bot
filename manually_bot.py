@@ -166,49 +166,49 @@ PRODUCTS = [
         "my_price": 1299
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "Заглушка 90950-01958 Lexus ES 200",
+        "url": "https://kaspi.kz/shop/p/zaglushka-90950-01958-lexus-es-200-171960642/?c=750000000",
+        "my_price": 1350
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "SRR крышка топливного бака 77300-33070",
+        "url": "https://kaspi.kz/shop/p/srr-kryshka-toplivnogo-baka-77300-33070-116309998/?c=750000000",
+        "my_price": 3497
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "Крышка омывателя 86615AA060",
+        "url": "https://kaspi.kz/shop/p/kryshka-omyvatelja-86615aa060-135444551/?c=750000000",
+        "my_price": 1345
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "Ручка 83660-4H100 Hyundai H1",
+        "url": "https://kaspi.kz/shop/p/ruchka-83660-4h100-hyundai-h1-139693271/?c=750000000",
+        "my_price": 2700
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "Крышка топливного бака 7730006040",
+        "url": "https://kaspi.kz/shop/p/kryshka-toplivnogo-baka-7730006040-154439341/?c=750000000",
+        "my_price": 5700
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "K2 крышка омывателя 8531626030",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-8531626030-142247823/?c=750000000",
+        "my_price": 1791
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "WXQP крючок солнцезащитного козырька 74348-33040",
+        "url": "https://kaspi.kz/shop/p/wxqp-krjuchok-solntsezaschitnogo-kozyr-ka-74348-33040-165374614/?c=750000000",
+        "my_price": 1490
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "HYUNDAI / KIA ручка открывания капота 8118034000WK",
+        "url": "https://kaspi.kz/shop/p/hyundai-kia-ruchka-otkryvanija-kapota-8118034000wk-144207627/?c=750000000",
+        "my_price": 3700
     },
     {
-        "name": "   ",
-        "url": "   ",
-        "my_price": 
+        "name": "Чехол на рычаг КПП в виде толстовки, для МКПП и АКПП, зимний, антискользящий, цвета синий",
+        "url": "https://kaspi.kz/shop/p/chehol-na-rychag-kpp-v-vide-tolstovki-dlja-mkpp-i-akpp-zimnii-antiskol-zjaschii-tsveta-sinii-i-krasnyi-otpravljajutsja-sluchaino-155610618/?c=750000000",
+        "my_price": 1498
     }
 ]
 
