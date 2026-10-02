@@ -273,7 +273,7 @@ PRODUCTS = [
     {
         "name": "Alfi Parts крышка маслозаливной горловины OC1006",
         "url": "https://kaspi.kz/shop/p/alfi-parts-kryshka-maslozalivnoi-gorloviny-oc1006-146281265/?c=750000000",
-        "my_price": 3592
+        "my_price": 3380
     },
     {
         "name": "JP GROUP крышка омывателя 1198600300 Audi A1",
