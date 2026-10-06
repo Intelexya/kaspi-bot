@@ -1,9 +1,9 @@
 name: Manual Price Report
 
 on:
-  workflow_dispatch:  # Кнопка ручного запуска останется
   schedule:
-    - cron: '0 10 * * *'  # Каждый день в 15:00 по времени Алматы (в 15:00 по UTC)
+    - cron: '0 10 * * *'  # 10:00 UTC = 15:00 по Алматы
+  workflow_dispatch:      # Чтобы можно было запустить вручную кнопкой
 
 jobs:
   run-manual-bot:
