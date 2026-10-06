@@ -322,6 +322,61 @@ PRODUCTS = [
         "url": "https://kaspi.kz/shop/p/sat-forsunka-omyvatelja-st-6e0955985-volkswagen-golf-150975788/?c=750000000",
         "my_price": 1140
     },
+    {
+        "name": "K2 буфер 8219128010 Hyundai Accent",
+        "url": "https://kaspi.kz/shop/p/k2-bufer-8219128010-hyundai-accent-153862763/?c=750000000",
+        "my_price": 450
+    },
+    {
+        "name": "Клипсы 191857559",
+        "url": "https://kaspi.kz/shop/p/klipsy-191857559-132994053/?c=750000000",
+        "my_price": 900
+    },
+    {
+        "name": "SAT заглушка 1A70419 Lexus Auris",
+        "url": "https://kaspi.kz/shop/p/sat-zaglushka-1a70419-lexus-auris-162543228/?c=750000000",
+        "my_price": 1000
+    },
+    {
+        "name": "SAT омыватель ST-6E0955985 Skoda Rapid",
+        "url": "https://kaspi.kz/shop/p/sat-omyvatel-st-6e0955985-skoda-rapid-156775633/?c=750000000",
+        "my_price": 1200
+    },
+    {
+        "name": "Nice втулка GF492-01350",
+        "url": "https://kaspi.kz/shop/p/nice-vtulka-gf492-01350-153861977/?c=750000000",
+        "my_price": 1299
+    },
+    {
+        "name": "Заглушка 90950-01958 Toyota RX 350",
+        "url": "https://kaspi.kz/shop/p/zaglushka-90950-01958-toyota-rx-350-171926023/?c=750000000",
+        "my_price": 1300
+    },
+    {
+        "name": "TBP заглушка 0019979586 Mercedes-Benz C 180, C 200, C 220, C 230, C 240, C 280",
+        "url": "https://kaspi.kz/shop/p/tbp-zaglushka-0019979586-mercedes-benz-c-180-c-200-c-220-c-230-c-240-c-280-c-320-e-200-e-220-e-230-e-240-e-250-e-260-e-280-e-300-e-320-132185038/?c=750000000",
+        "my_price": 1399
+    },
+    {
+        "name": "Заглушка 90950-01957 Toyota Camry",
+        "url": "https://kaspi.kz/shop/p/zaglushka-90950-01957-toyota-camry-171926026/?c=750000000",
+        "my_price": 1400
+    },
+    {
+        "name": "PATRON крышка омывателя P160115",
+        "url": "https://kaspi.kz/shop/p/patron-kryshka-omyvatelja-p160115-139393011/?c=750000000",
+        "my_price": 1401
+    },
+    {
+        "name": "TBP заглушка 000-21-046",
+        "url": "https://kaspi.kz/shop/p/tbp-zaglushka-000-21-046-116784957/?c=750000000",
+        "my_price": 1424
+    },
+    {
+        "name": "STONE Заглушка Блока Цилиндров JG47068",
+        "url": "https://kaspi.kz/shop/p/stone-zaglushka-bloka-tsilindrov-jg47068-129696135/?c=750000000",
+        "my_price": 1466
+    },
 ]
 
 def send_telegram_message(text):
