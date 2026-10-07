@@ -377,6 +377,46 @@ PRODUCTS = [
         "url": "https://kaspi.kz/shop/p/stone-zaglushka-bloka-tsilindrov-jg47068-129696135/?c=750000000",
         "my_price": 1466
     },
+    {
+        "name": "Заглушка 90950-01960",
+        "url": "https://kaspi.kz/shop/p/zaglushka-90950-01960-152157291/?c=750000000",
+        "my_price": 1488
+    },
+    {
+        "name": "Клипсы 74348-06030",
+        "url": "https://kaspi.kz/shop/p/klipsy-74348-06030-132994115/?c=750000000",
+        "my_price": 1499
+    },
+    {
+        "name": "Longho крышка омывателя 9650135",
+        "url": "https://kaspi.kz/shop/p/longho-kryshka-omyvatelja-9650135-167733700/?c=750000000",
+        "my_price": 1498
+    },
+    {
+        "name": "TRV Autoparts заглушка 2103210195 Mercedes-Benz E-CLASS",
+        "url": "https://kaspi.kz/shop/p/trv-autoparts-zaglushka-2103210195-mercedes-benz-e-class-151447382/?c=750000000",
+        "my_price": 1499
+    },
+    {
+        "name": "Поролоновая щетка 30407921_AUTO-BRUSH-14 5 шт",
+        "url": "https://kaspi.kz/shop/p/porolonovaja-schetka-30407921-auto-brush-14-5-sht-155015247/?c=750000000",
+        "my_price": 1500
+    },
+    {
+        "name": "Замок центрального подлокотника Toyota",
+        "url": "https://kaspi.kz/shop/p/zamok-tsentral-nogo-podlokotnika-toyota-138743413/?c=750000000",
+        "my_price": 1500
+    },
+    {
+        "name": "Alfi Parts заглушка головки блока цилиндров WW1069",
+        "url": "https://kaspi.kz/shop/p/alfi-parts-zaglushka-golovki-bloka-tsilindrov-ww1069-162929801/?c=750000000",
+        "my_price": 1542
+    },
+    {
+        "name": "BGA крышка расширительного бачка CC9100",
+        "url": "https://kaspi.kz/shop/p/bga-kryshka-rasshiritel-nogo-bachka-cc9100-165334841/?c=750000000",
+        "my_price": 1572
+    },
 ]
 
 def send_telegram_message(text):
