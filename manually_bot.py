@@ -365,7 +365,7 @@ PRODUCTS = [
     {
         "name": "PATRON крышка омывателя P160115",
         "url": "https://kaspi.kz/shop/p/patron-kryshka-omyvatelja-p160115-139393011/?c=750000000",
-        "my_price": 1401
+        "my_price": 1598
     },
     {
         "name": "TBP заглушка 000-21-046",
@@ -416,6 +416,21 @@ PRODUCTS = [
         "name": "BGA крышка расширительного бачка CC9100",
         "url": "https://kaspi.kz/shop/p/bga-kryshka-rasshiritel-nogo-bachka-cc9100-165334841/?c=750000000",
         "my_price": 1572
+    },
+    {
+        "name": "DEKO крышка омывателя D8531626030",
+        "url": "https://kaspi.kz/shop/p/deko-kryshka-omyvatelja-d8531626030-150419681/?c=750000000",
+        "my_price": 1592
+    },
+    {
+        "name": "PATRON крышка расширительного бачка P160117",
+        "url": "https://kaspi.kz/shop/p/patron-kryshka-rasshiritel-nogo-bachka-p160117-165190900/?c=750000000",
+        "my_price": 1599
+    },
+    {
+        "name": "PATRON крышка расширительного бачка P160009",
+        "url": "https://kaspi.kz/shop/p/patron-kryshka-rasshiritel-nogo-bachka-p160009-145061747/?c=750000000",
+        "my_price": 1641
     },
 ]
 
