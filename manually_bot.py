@@ -432,6 +432,152 @@ PRODUCTS = [
         "url": "https://kaspi.kz/shop/p/patron-kryshka-rasshiritel-nogo-bachka-p160009-145061747/?c=750000000",
         "my_price": 1641
     },
+    {
+        "name": "Крышка расширительного бачка 45153аа000",
+        "url": "https://kaspi.kz/shop/p/kryshka-rasshiritel-nogo-bachka-45153aa000-154377112/?c=750000000",
+        "my_price": 1650
+    },
+    {
+        "name": "Longho крышка расширительного бачка 8731-7001",
+        "url": "https://kaspi.kz/shop/p/longho-kryshka-rasshiritel-nogo-bachka-8731-7001-165895416/?c=750000000",
+        "my_price": 1680
+    },
+    {
+        "name": "Diamond крышка омывателя 99550006002",
+        "url": "https://kaspi.kz/shop/p/diamond-kryshka-omyvatelja-99550006002-114834391/?c=750000000",
+        "my_price": 1690
+    },
+    {
+        "name": "Expert крышка маслозаливной горловины 26510-26600",
+        "url": "https://kaspi.kz/shop/p/expert-kryshka-maslozalivnoi-gorloviny-26510-26600-122412593/?c=750000000",
+        "my_price": 1699
+    },
+    {
+        "name": "Крепление солнцезащитного козырька 93435682928",
+        "url": "https://kaspi.kz/shop/p/kreplenie-solntsezaschitnogo-kozyr-ka-93435682928-173925610/?c=750000000",
+        "my_price": 1700
+    },
+    {
+        "name": "ДЕКО заглушка головки блока цилиндров 12513P72003",
+        "url": "https://kaspi.kz/shop/p/deko-zaglushka-golovki-bloka-tsilindrov-12513p72003-113969520/?c=750000000",
+        "my_price": 1700
+    },
+    {
+        "name": "Stellox крышка расширительного бачка 7551962SX",
+        "url": "https://kaspi.kz/shop/p/stellox-kryshka-rasshiritel-nogo-bachka-7551962sx-166642841/?c=750000000",
+        "my_price": 1700
+    },
+    {
+        "name": "Тольятти крышка расширительного бачка 8200048024",
+        "url": "https://kaspi.kz/shop/p/tol-jatti-kryshka-rasshiritel-nogo-bachka-8200048024-121916374/?c=750000000",
+        "my_price": 1700
+    },
+    {
+        "name": "Крышка расширительного бачка 21712-79901",
+        "url": "https://kaspi.kz/shop/p/kryshka-rasshiritel-nogo-bachka-21712-79901-172547140/?c=750000000",
+        "my_price": 1748
+    },
+    {
+        "name": "JP GROUP крышка омывателя 1198600300 Audi A1",
+        "url": "https://kaspi.kz/shop/p/jp-group-kryshka-omyvatelja-1198600300-audi-a1-129686813/?c=750000000",
+        "my_price": 1790
+    },
+    {
+        "name": "HYUNDAI / KIA крышка маслозаливной горловины 26510-26620",
+        "url": "https://kaspi.kz/shop/p/hyundai-kia-kryshka-maslozalivnoi-gorloviny-26510-26620-108591425/?c=750000000",
+        "my_price": 1790
+    },
+    {
+        "name": "GALLANT крышка расширительного бачка GLCC 11",
+        "url": "https://kaspi.kz/shop/p/gallant-kryshka-rasshiritel-nogo-bachka-glcc-11-165096742/?c=750000000",
+        "my_price": 1790
+    },
+    {
+        "name": "K2 крышка расширительного бачка 16405-75020",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-rasshiritel-nogo-bachka-16405-75020-168950342/?c=750000000",
+        "my_price": 1800
+    },
+    {
+        "name": "MANDO крышка маслозаливной горловины 26510-26600",
+        "url": "https://kaspi.kz/shop/p/mando-kryshka-maslozalivnoi-gorloviny-26510-26600-129918665/?c=750000000",
+        "my_price": 1795
+    },
+    {
+        "name": "K2 крючок солнцезащитного козырька 3B0857561B",
+        "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-3b0857561b-166930384/?c=750000000",
+        "my_price": 1800
+    },
+    {
+        "name": "K2 крышка омывателя 2S6117632AD",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-2s6117632ad-156885305/?c=750000000",
+        "my_price": 1800
+    },
+    {
+        "name": "K2 крышка омывателя 2S6117632AD",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-2s6117632ad-156885321/?c=750000000",
+        "my_price": 1800
+    },
+    {
+        "name": "K2 крышка расширительного бачка 21712-79900",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-rasshiritel-nogo-bachka-21712-79900-152015321/?c=750000000",
+        "my_price": 1849
+    },
+    {
+        "name": "Stellox крышка расширительного бачка 75-51955-SX",
+        "url": "https://kaspi.kz/shop/p/stellox-kryshka-rasshiritel-nogo-bachka-75-51955-sx-142418018/?c=750000000",
+        "my_price": 1890
+    },
+    {
+        "name": "K2 крышка расширительного бачка 21712-79900",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-rasshiritel-nogo-bachka-21712-79900-152169365/?c=750000000",
+        "my_price": 1890
+    },
+    {
+        "name": "Крышка омывателя 850199",
+        "url": "https://kaspi.kz/shop/p/kryshka-omyvatelja-850199-113509364/?c=750000000",
+        "my_price": 1890
+    },
+    {
+        "name": "K2 крышка омывателя 28913-3RA1A",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-28913-3ra1a-145667768/?c=750000000",
+        "my_price": 1892
+    },
+    {
+        "name": "K2 крышка омывателя A1648690008",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-a1648690008-160876687/?c=750000000",
+        "my_price": 1895
+    },
+    {
+        "name": "K2 крышка омывателя 13118170",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-13118170-150737571/?c=750000000",
+        "my_price": 1895
+    },
+    {
+        "name": "GT крышка радиатора 210 501 07 15",
+        "url": "https://kaspi.kz/shop/p/gt-kryshka-radiatora-210-501-07-15-112387926/?c=750000000",
+        "my_price": 1898
+    },
+    {
+        "name": "K2 крышка омывателя MR245402",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-mr245402-146317152/?c=750000000",
+        "my_price": 1899
+    },
+    {
+        "name": "K2 крышка омывателя s12-5207153",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-s12-5207153-150520630/?c=750000000",
+        "my_price": 1900
+    },
+    {
+        "name": "K2 крышка омывателя 86615FJ000",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-86615fj000-152017237/?c=750000000",
+        "my_price": 1900
+    },
+    {
+        "name": "Calorstat крышка расширительного бачка RC0178",
+        "url": "https://kaspi.kz/shop/p/calorstat-kryshka-rasshiritel-nogo-bachka-rc0178-166947735/?c=750000000",
+        "my_price": 1900
+    },
+    
 ]
 
 def send_telegram_message(text):
