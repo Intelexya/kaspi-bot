@@ -577,7 +577,6 @@ PRODUCTS = [
         "url": "https://kaspi.kz/shop/p/calorstat-kryshka-rasshiritel-nogo-bachka-rc0178-166947735/?c=750000000",
         "my_price": 1900
     },
-    
 ]
 
 def send_telegram_message(text):
@@ -590,11 +589,6 @@ def send_telegram_message(text):
     except Exception as e:
         print(f"Ошибка отправки в Telegram: {e}")
 
-def chunk_list(lst, chunk_size):
-    """Делит список на пачки"""
-    for i in range(0, len(lst), chunk_size):
-        yield lst[i:i + chunk_size]
-
 def generate_report():
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
@@ -604,57 +598,45 @@ def generate_report():
     print(f"Всего товаров для проверки: {len(PRODUCTS)}")
     report_items = []
 
-    # Делим весь массив товаров на пачки по 60 штук
-    batches = list(chunk_list(PRODUCTS, 60))
-    total_batches = len(batches)
-    global_index = 1
+    for index, item in enumerate(PRODUCTS, 1):
+        print(f"Проверяем [{index}/{len(PRODUCTS)}]: {item['name']}...")
+        try:
+            response = requests.get(item['url'], headers=headers, timeout=15)
+            page_text = response.text
 
-    for batch_index, batch in enumerate(batches, start=1):
-        print(f"\n=== Обработка пачки {batch_index} из {total_batches} (товаров: {len(batch)}) ===")
-        
-        for item in batch:
-            print(f"Проверяем [{global_index}/{len(PRODUCTS)}]: {item['name']}...")
-            try:
-                response = requests.get(item['url'], headers=headers, timeout=15)
-                page_text = response.text
+            prices = re.findall(r'"price"\s*:\s*(\d+)', page_text)
+            valid_prices = [int(p) for p in prices if 100 < int(p) < 10000000]
+            best_price = min(valid_prices) if valid_prices else None
 
-                prices = re.findall(r'"price"\s*:\s*(\d+)', page_text)
-                valid_prices = [int(p) for p in prices if 100 < int(p) < 10000000]
-                best_price = min(valid_prices) if valid_prices else None
-
-                if best_price:
-                    if best_price < item['my_price']:
-                        status = f"❌ Вы не первый!\n   Низкая цена: {best_price} ₸ | Ваша: {item['my_price']} ₸"
-                    else:
-                        status = f"✅ Вы первый!\n   Низкая цена: {best_price} ₸ | Ваша: {item['my_price']} ₸"
+            if best_price:
+                if best_price < item['my_price']:
+                    status = f"❌ Вы не первый!\n   Низкая цена: {best_price} ₸ | Ваша: {item['my_price']} ₸"
                 else:
-                    status = "⚠️ Не удалось определить цену"
+                    status = f"✅ Вы первый!\n   Низкая цена: {best_price} ₸ | Ваша: {item['my_price']} ₸"
+            else:
+                status = "⚠️ Не удалось определить цену"
 
-                report_items.append(f"{global_index}. {item['name']}\n{status}\n")
-            except Exception as e:
-                report_items.append(f"{global_index}. {item['name']}\n⚠️ Ошибка проверки\n")
+            report_items.append(f"{index}. {item['name']}\n{status}\n")
+        except Exception as e:
+            report_items.append(f"{index}. {item['name']}\n⚠️ Ошибка проверки\n")
 
-            global_index += 1
-            
-            # Случайная микропауза между товарами внутри пачки (от 2 до 5 секунд)
-            time.sleep(random.uniform(2.0, 5.0))
+        # Случайная пауза между товарами, чтобы не перегружать сервер Kaspi
+        time.sleep(random.uniform(2.0, 4.0))
 
-        # Пауза 5 минут (300 секунд) между пачками (кроме последней)
-        if batch_index < total_batches:
-            print(f"Пачка {batch_index} завершена. Пауза 5 минут перед следующей пачкой...")
-            time.sleep(300)
-
-    # Разбиваем на части по 15 товаров, чтобы не превысить лимит Telegram (4096 символов)
-    chunk_size_TG = 15
-    chunks = [report_items[i:i + chunk_size_TG] for i in range(0, len(report_items), chunk_size_TG)]
+    # Автоматически делим весь список ровно на 8 частей
+    num_chunks = 8
+    chunk_size = max(1, len(report_items) // num_chunks)
+    chunks = [report_items[i:i + chunk_size] for i in range(0, len(report_items), chunk_size)]
 
     # Отправляем заголовок
-    send_telegram_message("📊 Сводка по ценам на автозапчасти:")
+    send_telegram_message("📊 Сводка по ценам на автозапчасти (всего 8 частей):")
+    time.sleep(1)
 
-    # Отправляем каждую часть отдельным сообщением
+    # Отправляем каждую из 8 частей с паузой в 1 секунду
     for i, chunk in enumerate(chunks, 1):
         chunk_text = f"--- Часть {i} из {len(chunks)} ---\n\n" + "\n".join(chunk)
         send_telegram_message(chunk_text)
+        time.sleep(1)
 
 if __name__ == "__main__":
     generate_report()
