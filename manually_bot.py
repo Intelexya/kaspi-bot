@@ -25,7 +25,7 @@ PRODUCTS = [
     {
         "name": "Japanparts крышка маслозаливной горловины K0016",
         "url": "https://kaspi.kz/shop/p/japanparts-kryshka-maslozalivnoi-gorloviny-ko016-165973425/?c=750000000",
-        "my_price": 3315
+        "my_price": 1980
     },
     {
         "name": "SRR крышка топливного бака 77300-33070",
@@ -45,7 +45,7 @@ PRODUCTS = [
     {
         "name": "Крепление 71111179444 BMW 3-Series 320, 3-Series 325, 3-Series 328, 3-Series 330, 5-Series 520, 5-Series 525, 5-Series 528, 5-Series 530, 7-Series 728",
         "url": "https://kaspi.kz/shop/p/kreplenie-71111179444-bmw-3-series-320-3-series-325-3-series-328-3-series-330-5-series-520-5-series-525-5-series-528-5-series-530-7-series-728-7-series-730-7-series-732-7-series-735-7-series-740-7-series-745-119716896/?c=750000000",
-        "my_price": 1918
+        "my_price": 1905
     },
     {
         "name": "K2 ниппель для кондиционера 96800053",
@@ -577,6 +577,187 @@ PRODUCTS = [
         "url": "https://kaspi.kz/shop/p/calorstat-kryshka-rasshiritel-nogo-bachka-rc0178-166947735/?c=750000000",
         "my_price": 1900
     },
+    {
+        "name": "K2 крышка расширительного бачка 1647123010",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-rasshiritel-nogo-bachka-1647123010-154155028/?c=750000000",
+        "my_price": 1900
+    },
+    {
+        "name": "K2 крышка омывателя 28913-1HA3A",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-28913-1ha3a-145667776/?c=750000000",
+        "my_price": 1900
+    },
+    {
+        "name": "K2 крючок солнцезащитного козырька 3B0857561B",
+        "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-3b0857561b-166930384/?c=750000000",
+        "my_price": 1900
+    },
+    {
+        "name": "K2 крышка омывателя 289137F001",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-289137f001-152017490/?c=750000000",
+        "my_price": 1900
+    },
+    {
+        "name": "K2 крышка омывателя 85316-16070",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-85316-16070-144911953/?c=750000000",
+        "my_price": 1900
+    },
+    {
+        "name": "K2 крышка омывателя 38451-77J00",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-38451-77j00-152229723/?c=750000000",
+        "my_price": 1900
+    },
+    {
+        "name": "K2 крышка омывателя 28913-JK60A",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-28913-jk60a-154399681/?c=750000000",
+        "my_price": 1900
+    },
+    {
+        "name": "K2 крышка омывателя 643230",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-643230-151357549/?c=750000000",
+        "my_price": 1900
+    },
+    {
+        "name": "K2 крышка омывателя 8W0955455B",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-8w0955455b-152017573/?c=750000000",
+        "my_price": 1900
+    },
+    {
+        "name": "K2 крышка омывателя 7700411279",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-7700411279-154155027/?c=750000000",
+        "my_price": 1900
+    },
+     {
+        "name": "K2 крышка омывателя 76802SK7003",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-76802sk7003-150737562/?c=750000000",
+        "my_price": 1900
+    },
+     {
+        "name": "K2 крышка омывателя 2038690108",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-2038690108-152017467/?c=750000000",
+        "my_price": 1900
+    },
+     {
+        "name": "K2 крышка омывателя 853160D040",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-853160d040-146812105/?c=750000000",
+        "my_price": 1900
+    },
+     {
+        "name": "K2 крышка омывателя 17107515485",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-17107515485-155572109/?c=750000000",
+        "my_price": 1900
+    },
+     {
+        "name": "K2 крышка расширительного бачка 1647123030",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-rasshiritel-nogo-bachka-1647123030-150520635/?c=750000000",
+        "my_price": 1900
+    },
+     {
+        "name": "K2 крышка омывателя 85316-48060",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-85316-48060-150441952/?c=750000000",
+        "my_price": 1980
+    },
+     {
+        "name": "Ручка открывания капота 81570-1G000",
+        "url": "https://kaspi.kz/shop/p/ruchka-otkryvanija-kapota-81570-1g000-133346759/?c=750000000",
+        "my_price": 1990
+    },
+     {
+        "name": "K2 крышка омывателя LR002266",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-lr002266-152169379/?c=750000000",
+        "my_price": 1990
+    },
+     {
+        "name": "K2 крышка омывателя A2068691000",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-a2068691000-169087979/?c=750000000",
+        "my_price": 1990
+    },
+     {
+        "name": "OEM крышка омывателя 28913-7S000",
+        "url": "https://kaspi.kz/shop/p/oem-kryshka-omyvatelja-28913-7s000-118405431/?c=750000000",
+        "my_price": 1990
+    },
+     {
+        "name": "K2 крышка омывателя 80D955455",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-80d955455-152843489/?c=750000000",
+        "my_price": 1990
+    },
+     {
+        "name": "Крючок солнцезащитного козырька 74348-33040B0",
+        "url": "https://kaspi.kz/shop/p/krjuchok-solntsezaschitnogo-kozyr-ka-74348-33040b0-118818362/?c=750000000",
+        "my_price": 1998
+    },
+     {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+     {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+     {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+     {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+     {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+     {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+     {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+     {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+     {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+     {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+     {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+     {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+     {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+     {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    
 ]
 
 def send_telegram_message(text):
