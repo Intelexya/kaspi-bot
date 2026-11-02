@@ -687,6 +687,257 @@ PRODUCTS = [
         "url": "https://kaspi.kz/shop/p/krjuchok-solntsezaschitnogo-kozyr-ka-74348-33040b0-118818362/?c=750000000",
         "my_price": 1998
     },
+    {
+        "name": "A.B.S. крышка омывателя 98623-35000",
+        "url": "https://kaspi.kz/shop/p/a-b-s-kryshka-omyvatelja-98623-35000-156625440/?c=750000000",
+        "my_price": 1999
+    },
+    {
+        "name": "Крючок солнцезащитного козырька 88217S01A01Z",
+        "url": "https://kaspi.kz/shop/p/krjuchok-solntsezaschitnogo-kozyr-ka-88217s01a01z-150523521/?c=750000000",
+        "my_price": 1999
+    },
+    {
+        "name": "K2 крючок солнцезащитного козырька 88217S01A01ZA",
+        "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-88217s01a01za-167934648/?c=750000000",
+        "my_price": 2000
+    },
+    {
+        "name": "K2 крышка омывателя F2UZ17632A",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-f2uz17632a-150968597/?c=750000000",
+        "my_price": 2000
+    },
+    {
+        "name": "OEM крючок солнцезащитного козырька 96409EG000",
+        "url": "https://kaspi.kz/shop/p/oem-krjuchok-solntsezaschitnogo-kozyr-ka-96409eg000-168964616/?c=750000000",
+        "my_price": 2000
+    },
+    {
+        "name": "K2 крючок солнцезащитного козырька 88217S01A01ZA",
+        "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-88217s01a01za-153968848/?c=750000000",
+        "my_price": 2000
+    },
+    {
+        "name": "SAT крючок солнцезащитного козырька 490769744",
+        "url": "https://kaspi.kz/shop/p/sat-krjuchok-solntsezaschitnogo-kozyr-ka-490769744-123787496/?c=750000000",
+        "my_price": 2000
+    },
+    {
+        "name": "K2 крючок солнцезащитного козырька 8U0857562A",
+        "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-8u0857562a-144814438/?c=750000000",
+        "my_price": 2000
+    },
+    {
+        "name": "K2 крючок солнцезащитного козырька 8U0857562A",
+        "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-8u0857562a-148082937/?c=750000000",
+        "my_price": 2000
+    },
+    {
+        "name": "Zebra крючок солнцезащитного козырька 7434833040B",
+        "url": "https://kaspi.kz/shop/p/zebra-krjuchok-solntsezaschitnogo-kozyr-ka-7434833040b-164080156/?c=750000000",
+        "my_price": 2000
+    },
+    {
+        "name": "K2 крючок солнцезащитного козырька 88217S01A01ZA",
+        "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-88217s01a01za-167934662/?c=750000000",
+        "my_price": 2000
+    },
+    {
+        "name": "K2 крючок солнцезащитного козырька 8U0857562A",
+        "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-8u0857562a-148082968/?c=750000000",
+        "my_price": 2000
+    },
+    {
+        "name": "DEKO крышка омывателя D85316-26030",
+        "url": "https://kaspi.kz/shop/p/deko-kryshka-omyvatelja-d85316-26030-168231986/?c=750000000",
+        "my_price": 2010
+    },
+    {
+        "name": "PATRON крышка омывателя P160086 BMW 3-Series 320",
+        "url": "https://kaspi.kz/shop/p/patron-kryshka-omyvatelja-p160086-bmw-3-series-320-165893516/?c=750000000",
+        "my_price": 2010
+    },
+    {
+        "name": "HYUNDAI / KIA крышка омывателя 98623-3K000",
+        "url": "https://kaspi.kz/shop/p/hyundai-kia-kryshka-omyvatelja-98623-3k000-168153941/?c=750000000",
+        "my_price": 2030
+    },
+    {
+        "name": "Фиксатор 5890833030",
+        "url": "https://kaspi.kz/shop/p/fiksator-5890833030-117338139/?c=750000000",
+        "my_price": 2070
+    },
+    {
+        "name": "Крышка расширительного бачка 45153-AA000",
+        "url": "https://kaspi.kz/shop/p/kryshka-rasshiritel-nogo-bachka-45153-aa000-168153040/?c=750000000",
+        "my_price": 2070
+    },
+    {
+        "name": "Крышка омывателя INF789315",
+        "url": "https://kaspi.kz/shop/p/kryshka-omyvatelja-inf789315-118204815/?c=750000000",
+        "my_price": 2085
+    },
+    {
+        "name": "NTY крышка омывателя KZS-VW-002",
+        "url": "https://kaspi.kz/shop/p/nty-kryshka-omyvatelja-kzs-vw-002-110637116/?c=750000000",
+        "my_price": 2099
+    },
+    {
+        "name": "OEM заглушка 28882-AU300 Nissan Juke",
+        "url": "https://kaspi.kz/shop/p/oem-zaglushka-28882-au300-nissan-juke-167673153/?c=750000000",
+        "my_price": 2100
+    },
+    {
+        "name": "Крышка омывателя 6V0955485",
+        "url": "https://kaspi.kz/shop/p/kryshka-omyvatelja-6v0955485-152801117/?c=750000000",
+        "my_price": 2100
+    },
+    {
+        "name": "Toyota заглушка 90950-01957 Toyota Camry",
+        "url": "https://kaspi.kz/shop/p/toyota-zaglushka-90950-01957-toyota-camry-179091758/?c=750000000",
+        "my_price": 2150
+    },
+    {
+        "name": "ASAM крышка расширительного бачка 30937",
+        "url": "https://kaspi.kz/shop/p/asam-kryshka-rasshiritel-nogo-bachka-30937-165276549/?c=750000000",
+        "my_price": 2160
+    },
+    {
+        "name": "K2 крючок солнцезащитного козырька MR779705",
+        "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-mr779705-164489101/?c=750000000",
+        "my_price": 2200
+    },
+    {
+        "name": "DEKO крышка маслозаливной горловины D2651026600",
+        "url": "https://kaspi.kz/shop/p/deko-kryshka-maslozalivnoi-gorloviny-d2651026600-144637538/?c=750000000",
+        "my_price": 2200
+    },
+    {
+        "name": "K2 крючок солнцезащитного козырька MR779705",
+        "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-mr779705-164636825/?c=750000000",
+        "my_price": 2200
+    },
+    {
+        "name": "Крышка расширительного бачка 98623-3K000",
+        "url": "https://kaspi.kz/shop/p/kryshka-rasshiritel-nogo-bachka-98623-3k000-154625293/?c=750000000",
+        "my_price": 2200
+    },
+    {
+        "name": "SAT крючок солнцезащитного козырька 7434833040B0",
+        "url": "https://kaspi.kz/shop/p/sat-krjuchok-solntsezaschitnogo-kozyr-ka-7434833040b0-169404466/?c=750000000",
+        "my_price": 2200
+    },
+    {
+        "name": "AUTO LAND крышка расширительного бачка 45153AA000",
+        "url": "https://kaspi.kz/shop/p/auto-land-kryshka-rasshiritel-nogo-bachka-45153aa000-145072678/?c=750000000",
+        "my_price": 2228
+    },
+    {
+        "name": "Крышка расширительного бачка 85316-0E050",
+        "url": "https://kaspi.kz/shop/p/kryshka-rasshiritel-nogo-bachka-85316-0e050-154625299/?c=750000000",
+        "my_price": 2240
+    },
+    {
+        "name": "Calorstat крышка расширительного бачка RC0182",
+        "url": "https://kaspi.kz/shop/p/calorstat-kryshka-rasshiritel-nogo-bachka-rc0182-166944194/?c=750000000",
+        "my_price": 2300
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    {
+        "name": " ",
+        "url": " ",
+        "my_price": 
+    },
+    
 ]
 
 def send_telegram_message(text):
