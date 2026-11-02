@@ -843,101 +843,935 @@ PRODUCTS = [
         "my_price": 2300
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "SANWAYI пробка картера двигателя HH10571",
+        "url": "https://kaspi.kz/shop/p/sanwayi-probka-kartera-dvigatelja-hh10571-131097637/?c=750000000",
+        "my_price": 2306
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "PATRON крышка омывателя P16-0086",
+        "url": "https://kaspi.kz/shop/p/patron-kryshka-omyvatelja-p16-0086-137912729/?c=750000000",
+        "my_price": 2343
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "KOWZE крышка омывателя MR242402 Mitsubishi Pajero",
+        "url": "https://kaspi.kz/shop/p/kowze-kryshka-omyvatelja-mr242402-mitsubishi-pajero-164529988/?c=750000000",
+        "my_price": 2389
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "Крышка омывателя 85316-26030",
+        "url": "https://kaspi.kz/shop/p/kryshka-omyvatelja-85316-26030-158986842/?c=750000000",
+        "my_price": 2400
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "WEISMO ручка двери 96462710R-N/WSM",
+        "url": "https://kaspi.kz/shop/p/weismo-ruchka-dveri-96462710r-n-wsm-149655198/?c=750000000",
+        "my_price": 2400
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "Крышка омывателя 86615AG000",
+        "url": "https://kaspi.kz/shop/p/kryshka-omyvatelja-86615ag000-131734469/?c=750000000",
+        "my_price": 2400
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "WEISMO ручка двери 96462709L-N/WSM",
+        "url": "https://kaspi.kz/shop/p/weismo-ruchka-dveri-96462709l-n-wsm-149660674/?c=750000000",
+        "my_price": 2400
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "Japanparts крышка маслозаливной горловины KO016",
+        "url": "https://kaspi.kz/shop/p/japanparts-kryshka-maslozalivnoi-gorloviny-ko016-165973425/?c=750000000",
+        "my_price": 2480
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "Концевик 84231-60070 Lexus CT 200h",
+        "url": "https://kaspi.kz/shop/p/kontsevik-84231-60070-lexus-ct-200h-131085948/?c=750000000",
+        "my_price": 2489
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "К5 крышка расширительного бачка 25440-3S000",
+        "url": "https://kaspi.kz/shop/p/k5-kryshka-rasshiritel-nogo-bachka-25440-3s000-155081330/?c=750000000",
+        "my_price": 2499
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "Крышка расширительного бачка 254403K000",
+        "url": "https://kaspi.kz/shop/p/kryshka-rasshiritel-nogo-bachka-254403k000-178953975/?c=750000000",
+        "my_price": 2500
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "K2 крышка расширительного бачка 254403K000",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-rasshiritel-nogo-bachka-254403k000-154676302/?c=750000000",
+        "my_price": 2500
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "4400389576ASR чехол на рычаг КПП красный",
+        "url": "https://kaspi.kz/shop/p/4400389576asr-chehol-na-rychag-kpp-krasnyi-131090966/?c=750000000",
+        "my_price": 2500
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "K2 крышка омывателя 8260A274",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-8260a274-153901363/?c=750000000",
+        "my_price": 2500
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "TSL крючок солнцезащитного козырька 113099300A",
+        "url": "https://kaspi.kz/shop/p/tsl-krjuchok-solntsezaschitnogo-kozyr-ka-113099300a-170440772/?c=750000000",
+        "my_price": 2600
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "K2 крышка омывателя 1131028-00-A",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-1131028-00-a-154017737/?c=750000000",
+        "my_price": 2600
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "K2 крышка расширительного бачка 1647551010",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-rasshiritel-nogo-bachka-1647551010-146452404/?c=750000000",
+        "my_price": 2690
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "K2 концевик 93560-25100 Hyundai Accent",
+        "url": "https://kaspi.kz/shop/p/k2-kontsevik-93560-25100-hyundai-accent-141287912/?c=750000000",
+        "my_price": 2710
     },
     {
-        "name": " ",
-        "url": " ",
-        "my_price": 
+        "name": "WEISMO ручка двери 96462709",
+        "url": "https://kaspi.kz/shop/p/weismo-ruchka-dveri-96462709-136960350/?c=750000000",
+        "my_price": 2800
     },
-    
+    {
+        "name": "HYUNDAI / KIA крышка омывателя 98623G6000",
+        "url": "https://kaspi.kz/shop/p/hyundai-kia-kryshka-omyvatelja-98623g6000-151233010/?c=750000000",
+        "my_price": 2800
+    },
+    {
+        "name": "Gates крышка расширительного бачка RC251",
+        "url": "https://kaspi.kz/shop/p/gates-kryshka-rasshiritel-nogo-bachka-rc251-165512469/?c=750000000",
+        "my_price": 2800
+    },
+    {
+        "name": "K2 крышка омывателя 86615KE000",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-omyvatelja-86615ke000-178289210/?c=750000000",
+        "my_price": 2800
+    },
+    {
+        "name": "EM отражатель E-ST-215-2905R-M-2 Nissan Qashqai",
+        "url": "https://kaspi.kz/shop/p/em-otrazhatel-e-st-215-2905r-m-2-nissan-qashqai-130935266/?c=750000000",
+        "my_price": 2810
+    },
+    {
+        "name": "Loro крышка расширительного бачка 051027003",
+        "url": "https://kaspi.kz/shop/p/loro-kryshka-rasshiritel-nogo-bachka-051027003-164990388/?c=750000000",
+        "my_price": 2820
+    },
+    {
+        "name": "Stellox крышка расширительного бачка 7550961SX",
+        "url": "https://kaspi.kz/shop/p/stellox-kryshka-rasshiritel-nogo-bachka-7550961sx-129853133/?c=750000000",
+        "my_price": 2828
+    },
+    {
+        "name": "SAT крышка расширительного бачка ST-460-0006",
+        "url": "https://kaspi.kz/shop/p/sat-kryshka-rasshiritel-nogo-bachka-st-460-0006-152641726/?c=750000000",
+        "my_price": 2870
+    },
+    {
+        "name": "Крышка маслозаливной горловины 12180-28010",
+        "url": "https://kaspi.kz/shop/p/kryshka-maslozalivnoi-gorloviny-12180-28010-150407353/?c=750000000",
+        "my_price": 2880
+    },
+    {
+        "name": "Vernet крышка расширительного бачка RC0145",
+        "url": "https://kaspi.kz/shop/p/vernet-kryshka-rasshiritel-nogo-bachka-rc0145-128751382/?c=750000000",
+        "my_price": 2888
+    },
+    {
+        "name": "K2 кнопка 84921-60080",
+        "url": "https://kaspi.kz/shop/p/k2-knopka-84921-60080-177112043/?c=750000000",
+        "my_price": 2900
+    },
+    {
+        "name": "Ручка 83650-4H100 Hyundai H1",
+        "url": "https://kaspi.kz/shop/p/ruchka-83650-4h100-hyundai-h1-139693219/?c=750000000",
+        "my_price": 2900
+    },
+    {
+        "name": "K2 кнопка 84921-60080",
+        "url": "https://kaspi.kz/shop/p/k2-knopka-84921-60080-177112039/?c=750000000",
+        "my_price": 2900
+    },
+    {
+        "name": "Loro крышка расширительного бачка 054027002",
+        "url": "https://kaspi.kz/shop/p/loro-kryshka-rasshiritel-nogo-bachka-054027002-164943494/?c=750000000",
+        "my_price": 2900
+    },
+    {
+        "name": "Ручка 83660-4H100 Hyundai H1",
+        "url": "https://kaspi.kz/shop/p/ruchka-83660-4h100-hyundai-h1-139693271/?c=750000000",
+        "my_price": 2900
+    },
+    {
+        "name": "Vernet крышка расширительного бачка RC 0145",
+        "url": "https://kaspi.kz/shop/p/vernet-kryshka-rasshiritel-nogo-bachka-rc-0145-166616305/?c=750000000",
+        "my_price": 2919
+    },
+    {
+        "name": "JP GROUP крышка радиатора 1314250200",
+        "url": "https://kaspi.kz/shop/p/jp-group-kryshka-radiatora-1314250200-131761333/?c=750000000",
+        "my_price": 2922
+    },
+    {
+        "name": "Заглушка 30428077_279255417 Toyota Camry",
+        "url": "https://kaspi.kz/shop/p/zaglushka-30428077-279255417-toyota-camry-179230107/?c=750000000",
+        "my_price": 2999
+    },
+    {
+        "name": "ABS крючок солнцезащитного козырька 4L0859561",
+        "url": "https://kaspi.kz/shop/p/abs-krjuchok-solntsezaschitnogo-kozyr-ka-4l0859561-173592025/?c=750000000",
+        "my_price": 3000
+    },
+    {
+        "name": "ABS крючок солнцезащитного козырька 4L0859561",
+        "url": "https://kaspi.kz/shop/p/abs-krjuchok-solntsezaschitnogo-kozyr-ka-4l0859561-173717954/?c=750000000",
+        "my_price": 3000
+    },
+    {
+        "name": "K2 крючок солнцезащитного козырька 6RD857561",
+        "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-6rd857561-154951606/?c=750000000",
+        "my_price": 3000
+    },
+    {
+        "name": "Катафот TY01-0176L",
+        "url": "https://kaspi.kz/shop/p/katafot-ty01-0176l-146595211/?c=750000000",
+        "my_price": 3000
+    },
+    {
+        "name": "Катафот TY01-0176R",
+        "url": "https://kaspi.kz/shop/p/katafot-ty01-0176r-146595267/?c=750000000",
+        "my_price": 3000
+    },
+    {
+        "name": "ABS крючок солнцезащитного козырька 4L0859561",
+        "url": "https://kaspi.kz/shop/p/abs-krjuchok-solntsezaschitnogo-kozyr-ka-4l0859561-173592066/?c=750000000",
+        "my_price": 3000
+    },
+    {
+        "name": "SAT крючок солнцезащитного козырька 554022898",
+        "url": "https://kaspi.kz/shop/p/sat-krjuchok-solntsezaschitnogo-kozyr-ka-554022898-150822946/?c=750000000",
+        "my_price": 3000
+    },
+    {
+        "name": "Ручка 55905-35310",
+        "url": "https://kaspi.kz/shop/p/ruchka-55905-35310-178953982/?c=750000000",
+        "my_price": 3000
+    },
+    {
+        "name": "SAT крючок солнцезащитного козырька 474511236",
+        "url": "https://kaspi.kz/shop/p/sat-krjuchok-solntsezaschitnogo-kozyr-ka-474511236-150563683/?c=750000000",
+        "my_price": 3000
+    },
+    {
+        "name": "K2 фиксатор MR532555",
+        "url": "https://kaspi.kz/shop/p/k2-fiksator-mr532555-144087758/?c=750000000",
+        "my_price": 3099
+    },
+    {
+        "name": "Xinchai ручка 83660-4H000 Hyundai H1",
+        "url": "https://kaspi.kz/shop/p/xinchai-ruchka-83660-4h000-hyundai-h1-135385818/?c=750000000",
+        "my_price": 3100
+    },
+    {
+        "name": "K2 крючок солнцезащитного козырька 6RD857561",
+        "url": "https://kaspi.kz/shop/p/k2-krjuchok-solntsezaschitnogo-kozyr-ka-6rd857561-154951609/?c=750000000",
+        "my_price": 3100
+    },
+    {
+        "name": "Alfi крышка маслозаливной горловины OC1003",
+        "url": "https://kaspi.kz/shop/p/alfi-kryshka-maslozalivnoi-gorloviny-oc1003-113264188/?c=750000000",
+        "my_price": 3128
+    },
+     {
+        "name": "Xinchai ручка 83650-4H100 Hyundai H1",
+        "url": "https://kaspi.kz/shop/p/xinchai-ruchka-83650-4h100-hyundai-h1-135385883/?c=750000000",
+        "my_price": 3190
+    },
+     {
+        "name": "ABS фиксатор 58908-12080",
+        "url": "https://kaspi.kz/shop/p/abs-fiksator-58908-12080-169660678/?c=750000000",
+        "my_price": 3200
+    },
+     {
+        "name": "K2 фиксатор 96666-T31",
+        "url": "https://kaspi.kz/shop/p/k2-fiksator-96666-t31-152017800/?c=750000000",
+        "my_price": 3200
+    },
+     {
+        "name": "ABS катафот ​26561-JE20A (​26560-JE20A)",
+        "url": "https://kaspi.kz/shop/p/abs-katafot-26561-je20a-26560-je20a--174099623/?c=750000000",
+        "my_price": 3290
+    },
+     {
+        "name": "ABS катафот 26560-JE20A",
+        "url": "https://kaspi.kz/shop/p/abs-katafot-26560-je20a-174213994/?c=750000000",
+        "my_price": 3290
+    },
+     {
+        "name": "SAILING ручка MBL23003232",
+        "url": "https://kaspi.kz/shop/p/sailing-ruchka-mbl23003232-109331640/?c=750000000",
+        "my_price": 3300
+    },
+     {
+        "name": "Крышка омывателя 85316-26030",
+        "url": "https://kaspi.kz/shop/p/kryshka-omyvatelja-85316-26030-168231790/?c=750000000",
+        "my_price": 3300
+    },
+     {
+        "name": "Vernet крышка расширительного бачка RC0160",
+        "url": "https://kaspi.kz/shop/p/vernet-kryshka-rasshiritel-nogo-bachka-rc0160-108591680/?c=750000000",
+        "my_price": 3323
+    },
+     {
+        "name": "Alfi Parts крышка маслозаливной горловины OC1006",
+        "url": "https://kaspi.kz/shop/p/alfi-parts-kryshka-maslozalivnoi-gorloviny-oc1006-146281265/?c=750000000",
+        "my_price": 3370
+    },
+     {
+        "name": "K2 фиксатор 5890860060",
+        "url": "https://kaspi.kz/shop/p/k2-fiksator-5890860060-144087307/?c=750000000",
+        "my_price": 3400
+    },
+     {
+        "name": "ABS фиксатор 58908-42010",
+        "url": "https://kaspi.kz/shop/p/abs-fiksator-58908-42010-169404460/?c=750000000",
+        "my_price": 3400
+    },
+     {
+        "name": "Крышка расширительного бачка 25441B1000",
+        "url": "https://kaspi.kz/shop/p/kryshka-rasshiritel-nogo-bachka-25441b1000-171926021/?c=750000000",
+        "my_price": 3490
+    },
+     {
+        "name": "SRR крышка топливного бака 77300-33070",
+        "url": "https://kaspi.kz/shop/p/srr-kryshka-toplivnogo-baka-77300-33070-116309998/?c=750000000",
+        "my_price": 3495
+    },
+     {
+        "name": "AE крышка расширительного бачка 16405-31070",
+        "url": "https://kaspi.kz/shop/p/ae-kryshka-rasshiritel-nogo-bachka-16405-31070-153776975/?c=750000000",
+        "my_price": 3500
+    },
+     {
+        "name": "SAT ручка 227322 Mitsubishi Pajero",
+        "url": "https://kaspi.kz/shop/p/sat-ruchka-227322-mitsubishi-pajero-147156288/?c=750000000",
+        "my_price": 3500
+    },
+     {
+        "name": "SAT крышка подлокотника MR532555",
+        "url": "https://kaspi.kz/shop/p/sat-kryshka-podlokotnika-mr532555-173322681/?c=750000000",
+        "my_price": 3500
+    },
+     {
+        "name": "Ручка ME81180340009RY Hyundai Accent",
+        "url": "https://kaspi.kz/shop/p/ruchka-me81180340009ry-hyundai-accent-124302867/?c=750000000",
+        "my_price": 3600
+    },
+    {
+        "name": "HYUNDAI / KIA ручка открывания капота 8118034000RY",
+        "url": "https://kaspi.kz/shop/p/hyundai-kia-ruchka-otkryvanija-kapota-8118034000ry-145608724/?c=750000000",
+        "my_price": 3629
+    },
+    {
+        "name": "MMC ручка MB669338 Mitsubishi Pajero, Mini, Pajero Pinin, Montero",
+        "url": "https://kaspi.kz/shop/p/mmc-ruchka-mb669338-mitsubishi-pajero-mini-pajero-pinin-montero-128039317/?c=750000000",
+        "my_price": 3667
+    },
+    {
+        "name": "HYUNDAI / KIA концевик 93560 25100 Hyundai универсальная",
+        "url": "https://kaspi.kz/shop/p/hyundai-kia-kontsevik-93560-25100-hyundai-universal-naja-179343038/?c=750000000",
+        "my_price": 3690
+    },
+    {
+        "name": "K2 ручка открывания капота 8118034000WK",
+        "url": "https://kaspi.kz/shop/p/k2-ruchka-otkryvanija-kapota-8118034000wk-156793682/?c=750000000",
+        "my_price": 3700
+    },
+    {
+        "name": "HYUNDAI / KIA ручка открывания капота 8118034000WK",
+        "url": "https://kaspi.kz/shop/p/hyundai-kia-ruchka-otkryvanija-kapota-8118034000wk-144207627/?c=750000000",
+        "my_price": 3700
+    },
+    {
+        "name": "Ручка MB669338 MR230032 Mitsubishi Pajero",
+        "url": "https://kaspi.kz/shop/p/ruchka-mb669338-mr230032-mitsubishi-pajero-121728755/?c=750000000",
+        "my_price": 3750
+    },
+    {
+        "name": "TR-Avto крышка топливного бака 77300-52030",
+        "url": "https://kaspi.kz/shop/p/tr-avto-kryshka-toplivnogo-baka-77300-52030-144307294/?c=750000000",
+        "my_price": 3800
+    },
+    {
+        "name": "Ручка КПП для Volkswagen Passat 1989-1997 черный",
+        "url": "https://kaspi.kz/shop/p/ruchka-kpp-dlja-volkswagen-passat-1989-1997-chernyi-138763286/?c=750000000",
+        "my_price": 3849
+    },
+    {
+        "name": "KOWZE замок бардачка MR532556",
+        "url": "https://kaspi.kz/shop/p/kowze-zamok-bardachka-mr532556-158770603/?c=750000000",
+        "my_price": 3996
+    },
+    {
+        "name": "Stellox крышка радиатора 7550961SX",
+        "url": "https://kaspi.kz/shop/p/stellox-kryshka-radiatora-7550961sx-164990713/?c=750000000",
+        "my_price": 3999
+    },
+    {
+        "name": "AC ручка 55905-60270",
+        "url": "https://kaspi.kz/shop/p/ac-ruchka-55905-60270-177470802/?c=750000000",
+        "my_price": 4000
+    },
+    {
+        "name": "K2 кнопка 84921-60080",
+        "url": "https://kaspi.kz/shop/p/k2-knopka-84921-60080-177179485/?c=750000000",
+        "my_price": 4000
+    },
+    {
+        "name": "JP GROUP крышка расширительного бачка 1314250200",
+        "url": "https://kaspi.kz/shop/p/jp-group-kryshka-rasshiritel-nogo-bachka-1314250200-165523647/?c=750000000",
+        "my_price": 4185
+    },
+    {
+        "name": "A.D.A.L AUTO крышка маслозаливной горловины 12180-46031",
+        "url": "https://kaspi.kz/shop/p/a-d-a-l-auto-kryshka-maslozalivnoi-gorloviny-12180-46031-150407296/?c=750000000",
+        "my_price": 4190
+    },
+    {
+        "name": "K2 крышка топливного бака 7730006040",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-toplivnogo-baka-7730006040-153968849/?c=750000000",
+        "my_price": 4200
+    },
+    {
+        "name": "K2 ручка 811812B000WK Hyundai Elantra",
+        "url": "https://kaspi.kz/shop/p/k2-ruchka-811812b000wk-hyundai-elantra-161453195/?c=750000000",
+        "my_price": 4200
+    },
+    {
+        "name": "K2 заглушка 53286-0R020 Toyota RAV4",
+        "url": "https://kaspi.kz/shop/p/k2-zaglushka-53286-0r020-toyota-rav4-165038525/?c=750000000",
+        "my_price": 4300
+    },
+    {
+        "name": "K2 кнопка 377959855C",
+        "url": "https://kaspi.kz/shop/p/k2-knopka-377959855c-176843570/?c=750000000",
+        "my_price": 4300
+    },
+    {
+        "name": "K2 заглушка 53286-0R020 Toyota RAV4",
+        "url": "https://kaspi.kz/shop/p/k2-zaglushka-53286-0r020-toyota-rav4-165039346/?c=750000000",
+        "my_price": 4300
+    },
+    {
+        "name": "SOFRET крышка маслозаливной горловины 12180-46031",
+        "url": "https://kaspi.kz/shop/p/sofret-kryshka-maslozalivnoi-gorloviny-12180-46031-171741459/?c=750000000",
+        "my_price": 4380
+    },
+    {
+        "name": "SOFRET крышка маслозаливной горловины 12180-28010",
+        "url": "https://kaspi.kz/shop/p/sofret-kryshka-maslozalivnoi-gorloviny-12180-28010-171740945/?c=750000000",
+        "my_price": 4478
+    },
+    {
+        "name": "K2 заглушка 53286-0R060 Toyota RAV4",
+        "url": "https://kaspi.kz/shop/p/k2-zaglushka-53286-0r060-toyota-rav4-162375279/?c=750000000",
+        "my_price": 4500
+    },
+    {
+        "name": "K2 заглушка 53285-0R060 Toyota RAV4",
+        "url": "https://kaspi.kz/shop/p/k2-zaglushka-53285-0r060-toyota-rav4-162374573/?c=750000000",
+        "my_price": 4500
+    },
+    {
+        "name": "K2 кнопка 81260C1010 Hyundai Sonata",
+        "url": "https://kaspi.kz/shop/p/k2-knopka-81260c1010-hyundai-sonata-142184049/?c=750000000",
+        "my_price": 4600
+    },
+    {
+        "name": "ABS кнопка 84810-12080",
+        "url": "https://kaspi.kz/shop/p/abs-knopka-84810-12080-147774827/?c=750000000",
+        "my_price": 4600
+    },
+    {
+        "name": "K2 кнопка 61318365300",
+        "url": "https://kaspi.kz/shop/p/k2-knopka-61318365300-149898065/?c=750000000",
+        "my_price": 4600
+    },
+    {
+        "name": "TAIWAN кнопка 613113933611",
+        "url": "https://kaspi.kz/shop/p/taiwan-knopka-613113933611-146848148/?c=750000000",
+        "my_price": 4600
+    },
+    {
+        "name": "K2 ручка открывания капота MB775329",
+        "url": "https://kaspi.kz/shop/p/k2-ruchka-otkryvanija-kapota-mb775329-155173325/?c=750000000",
+        "my_price": 4600
+    },
+    {
+        "name": "ASA накладка 5216606040 Toyota Camry",
+        "url": "https://kaspi.kz/shop/p/asa-nakladka-5216606040-toyota-camry-166424947/?c=750000000",
+        "my_price": 4600
+    },
+    {
+        "name": "ASA накладка 5216606040 Toyota Camry",
+        "url": "https://kaspi.kz/shop/p/asa-nakladka-5216606040-toyota-camry-166424915/?c=750000000",
+        "my_price": 4600
+    },
+    {
+        "name": "K2 кнопка 93570-4V010",
+        "url": "https://kaspi.kz/shop/p/k2-knopka-93570-4v010-143087952/?c=750000000",
+        "my_price": 4700
+    },
+    {
+        "name": "K2 кнопка 93581-1R000",
+        "url": "https://kaspi.kz/shop/p/k2-knopka-93581-1r000-145368332/?c=750000000",
+        "my_price": 4700
+    },
+    {
+        "name": "KOWZE крышка топливного бака 77300-33071",
+        "url": "https://kaspi.kz/shop/p/kowze-kryshka-toplivnogo-baka-77300-33071-154625414/?c=750000000",
+        "my_price": 4743
+    },
+    {
+        "name": "K2 кнопка 7P6962126A",
+        "url": "https://kaspi.kz/shop/p/k2-knopka-7p6962126a-151813174/?c=750000000",
+        "my_price": 4800
+    },
+    {
+        "name": "ABS ручка 8127895J07 Toyota HiAce",
+        "url": "https://kaspi.kz/shop/p/abs-ruchka-8127895j07-toyota-hiace-171640130/?c=750000000",
+        "my_price": 4800
+    },
+    {
+        "name": "K2 кнопка 93580-2E000",
+        "url": "https://kaspi.kz/shop/p/k2-knopka-93580-2e000-173592005/?c=750000000",
+        "my_price": 4800
+    },
+    {
+        "name": "K2 крышка топливного бака 8K0201550N",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-toplivnogo-baka-8k0201550n-154951620/?c=750000000",
+        "my_price": 4800
+    },
+    {
+        "name": "RHLLT концевик 93880-3X100 Hyundai Elantra",
+        "url": "https://kaspi.kz/shop/p/rhllt-kontsevik-93880-3x100-hyundai-elantra-155017825/?c=750000000",
+        "my_price": 4800
+    },
+    {
+        "name": "K2 кнопка 93576-2S000",
+        "url": "https://kaspi.kz/shop/p/k2-knopka-93576-2s000-172490352/?c=750000000",
+        "my_price": 4800
+    },
+    {
+        "name": "Кнопка 7P6962126A",
+        "url": "https://kaspi.kz/shop/p/knopka-7p6962126a-151812752/?c=750000000",
+        "my_price": 4800
+    },
+    {
+        "name": "KOWZE замок бардачка MR532555 MR532556",
+        "url": "https://kaspi.kz/shop/p/kowze-zamok-bardachka-mr532555-mr532556-137857076/?c=750000000",
+        "my_price": 4899
+    },
+    {
+        "name": "Кнопка 30421280_151610831",
+        "url": "https://kaspi.kz/shop/p/knopka-30421280-151610831-151726974/?c=750000000",
+        "my_price": 4900
+    },
+    {
+        "name": "MANDO крышка омывателя 98623-3K000",
+        "url": "https://kaspi.kz/shop/p/mando-kryshka-omyvatelja-98623-3k000-161180753/?c=750000000",
+        "my_price": 4900
+    },
+    {
+        "name": "K2 кнопка 812602L000",
+        "url": "https://kaspi.kz/shop/p/k2-knopka-812602l000-170585317/?c=750000000",
+        "my_price": 4990
+    },
+    {
+        "name": "A.B.S. кнопка 90602-JD00B Nissan Qashqai",
+        "url": "https://kaspi.kz/shop/p/a-b-s-knopka-90602-jd00b-nissan-qashqai-173592012/?c=750000000",
+        "my_price": 4990
+    },
+    {
+        "name": "A.B.S. кнопка 81260-1W220 Hyundai Accent",
+        "url": "https://kaspi.kz/shop/p/a-b-s-knopka-81260-1w220-hyundai-accent-153829245/?c=750000000",
+        "my_price": 4990
+    },
+    {
+        "name": "Фильтр CTS ZR009007 для пылесосов универсальный 1 шт.",
+        "url": "https://kaspi.kz/shop/p/fil-tr-cts-zr009007-dlja-pylesosov-universal-nyi-1-sht--141107204/?c=750000000",
+        "my_price": 4990
+    },
+    {
+        "name": "Заглушка 63496-48010 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63496-48010-toyota-highlander-171703426/?c=750000000",
+        "my_price": 5000
+    },
+    {
+        "name": "Заглушка 63495-48010 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63495-48010-toyota-highlander-171703418/?c=750000000",
+        "my_price": 5000
+    },
+    {
+        "name": "K2 крышка топливного бака 16117222391",
+        "url": "https://kaspi.kz/shop/p/k2-kryshka-toplivnogo-baka-16117222391-178800882/?c=750000000",
+        "my_price": 5200
+    },
+    {
+        "name": "Блок кнопок 30425507_646164392",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-30425507-646164392-162347543/?c=750000000",
+        "my_price": 5500
+    },
+    {
+        "name": "WEISMO ручка двери 96462709",
+        "url": "https://kaspi.kz/shop/p/weismo-ruchka-dveri-96462709-136960176/?c=750000000",
+        "my_price": 5500
+    },
+    {
+        "name": "Крышка топливного бака 7730006040",
+        "url": "https://kaspi.kz/shop/p/kryshka-toplivnogo-baka-7730006040-154439341/?c=750000000",
+        "my_price": 5600
+    },
+    {
+        "name": "QUATTRO FRENI крышка топливного бака DQF27H00011",
+        "url": "https://kaspi.kz/shop/p/quattro-freni-kryshka-toplivnogo-baka-dqf27h00011-116276379/?c=750000000",
+        "my_price": 5600
+    },
+    {
+        "name": "Кнопка 30139503_055015577 Kia Ceed",
+        "url": "https://kaspi.kz/shop/p/knopka-30139503-055015577-kia-ceed-144965985/?c=750000000",
+        "my_price": 5700
+    },
+    {
+        "name": "Кнопка 81260-F2010 Hyundai Elantra",
+        "url": "https://kaspi.kz/shop/p/knopka-81260-f2010-hyundai-elantra-130883902/?c=750000000",
+        "my_price": 5800
+    },
+    {
+        "name": "Alfi Parts крышка топливного бака GC1003",
+        "url": "https://kaspi.kz/shop/p/alfi-parts-kryshka-toplivnogo-baka-gc1003-164152180/?c=750000000",
+        "my_price": 5820
+    },
+    {
+        "name": "WEISMO ручка двери 96462709",
+        "url": "https://kaspi.kz/shop/p/weismo-ruchka-dveri-96462709-136999546/?c=750000000",
+        "my_price": 6000
+    },
+    {
+        "name": "ABS катафот 81920-48012",
+        "url": "https://kaspi.kz/shop/p/abs-katafot-81920-48012-146812159/?c=750000000",
+        "my_price": 6200
+    },
+    {
+        "name": "Заглушка 63493-48010 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63493-48010-toyota-highlander-147023444/?c=750000000",
+        "my_price": 6500
+    },
+    {
+        "name": "Рейлинги 63492-48010 Toyota Highlander 2001-2007 черный",
+        "url": "https://kaspi.kz/shop/p/63492-48010-toyota-highlander-2001-2007-chernyi-147022990/?c=750000000",
+        "my_price": 6900
+    },
+    {
+        "name": "Заглушка 63494-48010 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63494-48010-toyota-highlander-147023010/?c=750000000",
+        "my_price": 6990
+    },
+    {
+        "name": "Ручка 69090-08010",
+        "url": "https://kaspi.kz/shop/p/ruchka-69090-08010-114729999/?c=750000000",
+        "my_price": 7000
+    },
+    {
+        "name": "Заглушка 63493-48020 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63493-48020-toyota-highlander-149654380/?c=750000000",
+        "my_price": 7499
+    },
+    {
+        "name": "Заглушка 63494-60110 Toyota Land Cruiser Prado",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63494-60110-toyota-land-cruiser-prado-164076600/?c=750000000",
+        "my_price": 7499
+    },
+    {
+        "name": "10H заглушка 63494-60050 Toyota Land Cruiser Prado",
+        "url": "https://kaspi.kz/shop/p/10h-zaglushka-63494-60050-toyota-land-cruiser-prado-164286719/?c=750000000",
+        "my_price": 7500
+    },
+    {
+        "name": "Заглушка 63491-48010 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63491-48010-toyota-highlander-147022982/?c=750000000",
+        "my_price": 7500
+    },
+    {
+        "name": "Заглушка 63491-0E060 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63491-0e060-toyota-highlander-149834456/?c=750000000",
+        "my_price": 7500
+    },
+    {
+        "name": "Заглушка 63492-48020 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63492-48020-toyota-highlander-149835516/?c=750000000",
+        "my_price": 7500
+    },
+    {
+        "name": "Заглушка 63494-0E060 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63494-0e060-toyota-highlander-149833804/?c=750000000",
+        "my_price": 7500
+    },
+    {
+        "name": "Expert замок 81180-3S000 Hyundai Elantra",
+        "url": "https://kaspi.kz/shop/p/expert-zamok-81180-3s000-hyundai-elantra-168667931/?c=750000000",
+        "my_price": 7700
+    },
+    {
+        "name": "SAILING ручка 6909008010 Toyota Sequoia",
+        "url": "https://kaspi.kz/shop/p/sailing-ruchka-6909008010-toyota-sequoia-137224874/?c=750000000",
+        "my_price": 7900
+    },
+    {
+        "name": "K2 кнопка 81260C1010 Hyundai Sonata",
+        "url": "https://kaspi.kz/shop/p/k2-knopka-81260c1010-hyundai-sonata-168579431/?c=750000000",
+        "my_price": 8100
+    },
+    {
+        "name": "NTY переключатель EWS-VW-154",
+        "url": "https://kaspi.kz/shop/p/nty-perekljuchatel-ews-vw-154-118140902/?c=750000000",
+        "my_price": 8300
+    },
+    {
+        "name": "Блок кнопок 1J4959857B",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-1j4959857b-154319574/?c=750000000",
+        "my_price": 8400
+    },
+    {
+        "name": "Переключатель 30425507_034595023",
+        "url": "https://kaspi.kz/shop/p/perekljuchatel-30425507-034595023-162781057/?c=750000000",
+        "my_price": 8500
+    },
+    {
+        "name": "Блок кнопок 1J4959857B",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-1j4959857b-131769133/?c=750000000",
+        "my_price": 8500
+    },
+    {
+        "name": "Переключатель 30441328_845812807",
+        "url": "https://kaspi.kz/shop/p/perekljuchatel-30441328-845812807-162780383/?c=750000000",
+        "my_price": 8900
+    },
+    {
+        "name": "NTY переключатель EWS-VW-078",
+        "url": "https://kaspi.kz/shop/p/nty-perekljuchatel-ews-vw-078-105925434/?c=750000000",
+        "my_price": 9500
+    },
+    {
+        "name": "RepairKit переключатель KL5ND941431B",
+        "url": "https://kaspi.kz/shop/p/repairkit-perekljuchatel-kl5nd941431b-154021669/?c=750000000",
+        "my_price": 9900
+    },
+    {
+        "name": "Блок кнопок стеклоподъемника Passat Golf Jetta",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-steklopod-emnika-passat-golf-jetta-103086013/?c=750000000",
+        "my_price": 9990
+    },
+    {
+        "name": "TR-Avto блок кнопок 84820-06100",
+        "url": "https://kaspi.kz/shop/p/tr-avto-blok-knopok-84820-06100-136748460/?c=750000000",
+        "my_price": 9990
+    },
+    {
+        "name": "Блок кнопок 1J4959857B",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-1j4959857b-151526143/?c=750000000",
+        "my_price": 9990
+    },
+    {
+        "name": "Кнопка 30295083_400563037",
+        "url": "https://kaspi.kz/shop/p/knopka-30295083-400563037-131420855/?c=750000000",
+        "my_price": 10000
+    },
+    {
+        "name": "K2 блок кнопок 93570-1R101",
+        "url": "https://kaspi.kz/shop/p/k2-blok-knopok-93570-1r101-146098321/?c=750000000",
+        "my_price": 10300
+    },
+    {
+        "name": "Стеклоподъемник передний левый 93570-4X000",
+        "url": "https://kaspi.kz/shop/p/steklopod-emnik-perednii-levyi-93570-4x000-110475675/?c=750000000",
+        "my_price": 10650
+    },
+    {
+        "name": "Блок кнопок 84820-06070",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-84820-06070-103104159/?c=750000000",
+        "my_price": 10890
+    },
+    {
+        "name": "Блок кнопок 84820-06100",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-84820-06100-151654430/?c=750000000",
+        "my_price": 10900
+    },
+    {
+        "name": "Блок кнопок 84820-06100",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-84820-06100-114197160/?c=750000000",
+        "my_price": 10900
+    },
+    {
+        "name": "Замок 81230-1R000 Hyundai Accent",
+        "url": "https://kaspi.kz/shop/p/zamok-81230-1r000-hyundai-accent-146318595/?c=750000000",
+        "my_price": 10990
+    },
+    {
+        "name": "Блок управления стеклоподъёмниками",
+        "url": "https://kaspi.kz/shop/p/blok-upravlenija-steklopod-jomnikami-132811534/?c=750000000",
+        "my_price": 10990
+    },
+    {
+        "name": "Блок кнопок 935701R410",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-935701r410-132802452/?c=750000000",
+        "my_price": 10990
+    },
+    {
+        "name": "Заглушка 63491-48010 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63491-48010-toyota-highlander-158681791/?c=750000000",
+        "my_price": 11499
+    },
+    {
+        "name": "Рейлинги 63494-48010 Toyota Highlander 2001-2007 черный",
+        "url": "https://kaspi.kz/shop/p/63494-48010-toyota-highlander-2001-2007-chernyi-158681423/?c=750000000",
+        "my_price": 11499
+    },
+    {
+        "name": "Рейлинги 63493-48010 Toyota Highlander 2001-2007 черный",
+        "url": "https://kaspi.kz/shop/p/63493-48010-toyota-highlander-2001-2007-chernyi-158681047/?c=750000000",
+        "my_price": 11500
+    },
+    {
+        "name": "Заглушка 63494-60110 Toyota Land Cruiser Prado",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63494-60110-toyota-land-cruiser-prado-133978081/?c=750000000",
+        "my_price": 11500
+    },
+    {
+        "name": "Рейлинги 63492-48010 Toyota Highlander 2001-2007 черный",
+        "url": "https://kaspi.kz/shop/p/63492-48010-toyota-highlander-2001-2007-chernyi-158681829/?c=750000000",
+        "my_price": 11500
+    },
+    {
+        "name": "VIKA кнопка 1J4959857D",
+        "url": "https://kaspi.kz/shop/p/vika-knopka-1j4959857d-115968259/?c=750000000",
+        "my_price": 11500
+    },
+    {
+        "name": "Блок кнопок 93570-3W400",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-93570-3w400-121587644/?c=750000000",
+        "my_price": 11800
+    },
+    {
+        "name": "Блок кнопок 935701C110",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-935701c110-162780387/?c=750000000",
+        "my_price": 11900
+    },
+    {
+        "name": "Expert замок 81230-1R000 Hyundai Accent, Solaris",
+        "url": "https://kaspi.kz/shop/p/expert-zamok-81230-1r000-hyundai-accent-solaris-122174091/?c=750000000",
+        "my_price": 11900
+    },
+    {
+        "name": "Блок кнопок 935701C110",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-935701c110-162781005/?c=750000000",
+        "my_price": 11900
+    },
+    {
+        "name": "K2 блок кнопок 93570-1C110",
+        "url": "https://kaspi.kz/shop/p/k2-blok-knopok-93570-1c110-152017053/?c=750000000",
+        "my_price": 11990
+    },
+    {
+        "name": "Заглушка 63493-60110 Toyota Land Cruiser Prado",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63493-60110-toyota-land-cruiser-prado-133978098/?c=750000000",
+        "my_price": 11999
+    },
+    {
+        "name": "Заглушка 63494-48020 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63494-48020-toyota-highlander-131896076/?c=750000000",
+        "my_price": 11999
+    },
+    {
+        "name": "Заглушка 63491-60130 Toyota Land Cruiser Prado",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63491-60130-toyota-land-cruiser-prado-133978165/?c=750000000",
+        "my_price": 11999
+    },
+    {
+        "name": "Заглушка 30466605_831352336 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-30466605-831352336-toyota-highlander-172840906/?c=750000000",
+        "my_price": 12000
+    },
+    {
+        "name": "Заглушка 30466605_629343802 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-30466605-629343802-toyota-highlander-172840962/?c=750000000",
+        "my_price": 12000
+    },
+    {
+        "name": "Заглушка 30466605_784691311 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-30466605-784691311-toyota-highlander-172840631/?c=750000000",
+        "my_price": 12000
+    },
+    {
+        "name": "Заглушка 634920E060 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-634920e060-toyota-highlander-131900909/?c=750000000",
+        "my_price": 12000
+    },
+    {
+        "name": "Блок кнопок 93570-3W400",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-93570-3w400-154320802/?c=750000000",
+        "my_price": 12000
+    },
+    {
+        "name": "Заглушка 63491-0E060 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63491-0e060-toyota-highlander-131895974/?c=750000000",
+        "my_price": 12000
+    },
+    {
+        "name": "LEON замок 81230-1R000 Hyundai Accent",
+        "url": "https://kaspi.kz/shop/p/leon-zamok-81230-1r000-hyundai-accent-143590842/?c=750000000",
+        "my_price": 12000
+    },
+    {
+        "name": "Заглушка 30466605_474301409 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-30466605-474301409-toyota-highlander-172840769/?c=750000000",
+        "my_price": 12000
+    },
+    {
+        "name": "Заглушка 63491-0E060 Toyota Highlander",
+        "url": "https://kaspi.kz/shop/p/zaglushka-63491-0e060-toyota-highlander-131897186/?c=750000000",
+        "my_price": 12000
+    },
+    {
+        "name": "Стеклоподъемник передний левый Expert 93570-1R011",
+        "url": "https://kaspi.kz/shop/p/steklopod-emnik-perednii-levyi-expert-93570-1r011-122183036/?c=750000000",
+        "my_price": 12300
+    },
+    {
+        "name": "Блок кнопок 935712S000",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-935712s000-135912628/?c=750000000",
+        "my_price": 12700
+    },
+    {
+        "name": "K2 блок кнопок 935712S000",
+        "url": "https://kaspi.kz/shop/p/k2-blok-knopok-935712s000-164636828/?c=750000000",
+        "my_price": 12900
+    },
+    {
+        "name": "Блок кнопок 93570-1R011",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-93570-1r011-149833526/?c=750000000",
+        "my_price": 13000
+    },
+    {
+        "name": "Блок кнопок HEA4V010",
+        "url": "https://kaspi.kz/shop/p/blok-knopok-hea4v010-155071406/?c=750000000",
+        "my_price": 13000
+    },
 ]
 
 def send_telegram_message(text):
