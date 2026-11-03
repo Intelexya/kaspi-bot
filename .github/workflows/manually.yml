@@ -2,7 +2,7 @@ name: Manual Price Report
 
 on:
   schedule:
-    - cron: '0 10 * * *'  # 10:00 UTC = 15:00 по Алматы
+    - cron: '0 10 */2 * *'  # Запуск каждые 2 дня в 10:00 UTC (15:00 по Алматы)
   workflow_dispatch:      # Чтобы можно было запустить вручную кнопкой
 
 jobs:
