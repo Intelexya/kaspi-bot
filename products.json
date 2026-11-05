@@ -265,16 +265,6 @@
         "my_price": 3592
     },
     {
-        "name": "JP GROUP крышка омывателя 1198600300 Audi A1",
-        "url": "https://kaspi.kz/shop/p/jp-group-kryshka-omyvatelja-1198600300-audi-a1-129686813/?c=750000000",
-        "my_price": 1790
-    },
-    {
-        "name": "PATRON форсунка омывателя P210001 Seat Rapid",
-        "url": "https://kaspi.kz/shop/p/patron-forsunka-omyvatelja-p210001-seat-rapid-114888897/?c=750000000",
-        "my_price": 1190
-    },
-    {
         "name": "K2 буфер 1K8837529 Volkswagen Golf",
         "url": "https://kaspi.kz/shop/p/k2-bufer-1k8837529-volkswagen-golf-160876679/?c=750000000",
         "my_price": 450
@@ -318,11 +308,6 @@
         "name": "Клипсы 191857559",
         "url": "https://kaspi.kz/shop/p/klipsy-191857559-132994053/?c=750000000",
         "my_price": 900
-    },
-    {
-        "name": "SAT заглушка 1A70419 Lexus Auris",
-        "url": "https://kaspi.kz/shop/p/sat-zaglushka-1a70419-lexus-auris-162543228/?c=750000000",
-        "my_price": 1000
     },
     {
         "name": "SAT омыватель ST-6E0955985 Skoda Rapid",
@@ -463,11 +448,6 @@
         "name": "Крышка расширительного бачка 21712-79901",
         "url": "https://kaspi.kz/shop/p/kryshka-rasshiritel-nogo-bachka-21712-79901-172547140/?c=750000000",
         "my_price": 1748
-    },
-    {
-        "name": "JP GROUP крышка омывателя 1198600300 Audi A1",
-        "url": "https://kaspi.kz/shop/p/jp-group-kryshka-omyvatelja-1198600300-audi-a1-129686813/?c=750000000",
-        "my_price": 1790
     },
     {
         "name": "HYUNDAI / KIA крышка маслозаливной горловины 26510-26620",
@@ -1780,11 +1760,6 @@
         "my_price": 1899
     },
    {
-        "name": "Крышка омывателя 6V0955485",
-        "url": "https://kaspi.kz/shop/p/kryshka-omyvatelja-6v0955485-152801117/?c=750000000",
-        "my_price": 2100
-    },
-   {
         "name": "MASUMA Крышка Расширительного Бачка Системы Охлаждения MOX213",
         "url": "https://kaspi.kz/shop/p/masuma-kryshka-rasshiritel-nogo-bachka-sistemy-ohlazhdenija-mox213-130719792/?c=750000000",
         "my_price": 1920
@@ -1822,7 +1797,7 @@
    {
         "name": "K2 блок кнопок 93570-2P200",
         "url": "https://kaspi.kz/shop/p/k2-blok-knopok-93570-2p200-143556227/?c=750000000",
-        "my_price": 148000
+        "my_price": 14800
     },
    {
         "name": "Блок кнопок HAS1114",
