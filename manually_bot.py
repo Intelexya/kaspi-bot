@@ -43,8 +43,18 @@ def generate_report():
 
     for index, item in enumerate(PRODUCTS, 1):
         print(f"Проверяем [{index}/{len(PRODUCTS)}]: {item['name']}...")
+    
+        # Защита на случай, если в JSON у какого-то товара нет ключа 'my_price' или 'url'
+        item_price = item.get('my_price', 0)
+        item_url = item.get('url', '')
+        item_name = item.get('name', 'Товар без названия')
+
+        if not item_url:
+            report_items.append(f"{index}. {item_name}\n⚠️ Ошибка: нет ссылки\n")
+            continue
+
         try:
-            response = requests.get(item['url'], headers=headers, timeout=15)
+            response = requests.get(item_url, headers=headers, timeout=15)
             page_text = response.text
 
             prices = re.findall(r'"price"\s*:\s*(\d+)', page_text)
@@ -52,30 +62,29 @@ def generate_report():
             best_price = min(valid_prices) if valid_prices else None
 
             if best_price:
-                if best_price < item['my_price']:
-                    status = f"❌ Вы не первый!\n   Низкая цена: {best_price} ₸ | Ваша: {item['my_price']} ₸"
+                if best_price < item_price:
+                    status = f"❌ Вы не первый!\n   Низкая цена: {best_price} ₸ | Ваша: {item_price} ₸"
                 else:
-                    status = f"✅ Вы первый!\n   Низкая цена: {best_price} ₸ | Ваша: {item['my_price']} ₸"
+                    status = f"✅ Вы первый!\n   Низкая цена: {best_price} ₸ | Ваша: {item_price} ₸"
             else:
                 status = "⚠️ Не удалось определить цену"
 
-            report_items.append(f"{index}. {item['name']}\n{status}\n")
+            report_items.append(f"{index}. {item_name}\n{status}\n")
         except Exception as e:
-            report_items.append(f"{index}. {item['name']}\n⚠️ Ошибка проверки\n")
+            report_items.append(f"{index}. {item_name}\n⚠️ Ошибка проверки\n")
 
         # Случайная пауза между товарами
         time.sleep(random.uniform(2.0, 4.0))
 
-    # Автоматически делим весь список ровно на 8 частей
-    num_chunks = 8
-    chunk_size = max(1, len(report_items) // num_chunks)
+    # Делим весь список на части по 15 товаров, чтобы каждое сообщение гарантированно влезало в лимит Telegram (4096 символов)
+    chunk_size = 15
     chunks = [report_items[i:i + chunk_size] for i in range(0, len(report_items), chunk_size)]
 
     # Отправляем заголовок
     send_telegram_message(f"📊 Сводка по ценам на автозапчасти (всего товаров: {len(PRODUCTS)}):")
     time.sleep(1)
 
-    # Отправляем каждую из 8 частей с паузой в 1 секунду
+    # Отправляем каждую часть с паузой в 1 секунду
     for i, chunk in enumerate(chunks, 1):
         chunk_text = f"--- Часть {i} из {len(chunks)} ---\n\n" + "\n".join(chunk)
         send_telegram_message(chunk_text)
