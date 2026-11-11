@@ -82,13 +82,13 @@ def generate_report():
 
     # Отправляем заголовок
     send_telegram_message(f"📊 Сводка по ценам на автозапчасти (всего товаров: {len(PRODUCTS)}):")
-    time.sleep(1)
+    time.sleep(3)  # <--- Меняем 1 на 3 здесь
 
-    # Отправляем каждую часть с паузой в 1 секунду
+    # Отправляем каждую часть с паузой в 3 секунды
     for i, chunk in enumerate(chunks, 1):
         chunk_text = f"--- Часть {i} из {len(chunks)} ---\n\n" + "\n".join(chunk)
         send_telegram_message(chunk_text)
-        time.sleep(1)
+        time.sleep(3)  # <--- И меняем 1 на 3 здесь
 
 if __name__ == "__main__":
     generate_report()
